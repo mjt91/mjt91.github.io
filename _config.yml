@@ -62,7 +62,6 @@ exclude:
 header_pages:
   - _pages/about.md
 
-
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)

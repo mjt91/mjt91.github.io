@@ -1,0 +1,29 @@
+---
+---
+
+@import "minima";
+
+.about-page {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .about-page .about-image {
+    flex: 1 1 50%; /* Adjusts to take half the space */
+    /* Optional: Add padding or margin as needed */
+  }
+
+  .about-page .about-image img {
+    width: 50%; /* Adjust based on your preference */
+    max-width: 200px; /* Adjust to control the image size */
+    height: auto; /* Maintains aspect ratio */
+    border-radius: 50%; /* This makes the image round */
+    display: block; /* For centering, if needed */
+    margin: 0 auto; /* Center the image inside its container */
+  }
+    
+  .about-page .about-text {
+    flex: 1 1 50%; /* Adjusts to take half the space */
+    /* Optional: Add padding or margin for spacing */
+  }
+  
