@@ -1,4 +1,11 @@
-# How I got a 20% discount for changing one variable
+---
+title: "How I got a 20% discount for changing one variable"
+categories:
+  - blog
+tags:
+  - lifehack
+  - html
+---
 
 To begin with: _I hate shopping online with my phone._
 And for various reasons: No adblock, FOV way too small, it is slower, too less information, no possiblity to compare.
