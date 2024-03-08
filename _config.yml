@@ -58,7 +58,7 @@ exclude:
   # - vendor/gems/
   # - vendor/ruby/
 
-# # Minima: custom header links
+# Minima: custom header links
 header_pages:
   - _pages/about.md
 
@@ -82,7 +82,10 @@ header_pages:
 jekyll-archives:
   enabled:
     - tags
+    - categories
   layouts:
     tag: archive
+    categories: archive
   permalinks:
     tag: /tags/:name/
+    category: /categories/:name/
