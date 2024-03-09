@@ -44,7 +44,7 @@ I am a commandline style of guy.
 Already as a young guy I was tweeking my settings in [Counter-Strike](https://www.counter-strike.net/) using config (.cfg) files. I you are like me you will love the upgrade of your prompt.
 
 A little preview how it looks for my python project:
-![starship prompt in action](/assets/images/blog/2023-04/starship-prompt.png)
+![starship prompt in action](/assets/images/starship-prompt.png)
 
 
 ## [Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
