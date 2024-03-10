@@ -70,6 +70,23 @@ English tl;dr: No REST API yet (nice idea though). Feel free to use the titles i
 
 ## The authors
 
+Funnily enough: Names posed to be a bigger problem than I anticipated.
+But thinking about it for a while: Names are quite special.
+Very different in different places around the world.
+For this project I need quite ordinary names. Since all the book titles are in German the random authors should be *sounding german* but it would be great if they sound at least a bit exciting.
+
+### randomname.de
+<!-- First, I had a promising candiadate for the randomname source. -->
+A quick google search gave me a convenient looking source for the random author names as well: [randomname.de][randomname]. Note that this link will direct to the archived version of the site, as it is down since end of 2022.
+
+Unfortunately, the site was not really reachable exactly after I build the module to retrieve the names from their API.
+
+There were two problems: First, you could query the api for multiple names at once. But often it returned the same name multiple times in the returned `json`. 
+
+There was an ever bigger problem. In open sight: The site was not reliable. Offline.Gone. This posed a problem. Where do I get the names now from?
+
+
+### opendata
 
 
 
@@ -80,3 +97,6 @@ English tl;dr: No REST API yet (nice idea though). Feel free to use the titles i
 [episode]: 
 [quartett-wiki]: https://de.wikipedia.org/wiki/Das_Literarische_Quartett
 [quartett-ty]: https://www.youtube.com/results?search_query=literarische+quartett
+
+[randomname]: https://web.archive.org/web/20230127135402/https://randomname.de/
+[offenedaten-koeln]: https://offenedaten-koeln.de/
