@@ -18,3 +18,64 @@ I feel like they are really like that.
 
 I [episode PLACEHOLDER][episode] Florentin tells that he want in a deep rabbit hole of randomness.
 He spent his Saturday evening creating random names on some website and went on creating random book titles from another website.
+
+It turned out in a beautiful impro sketch where Florentin and Stefan played out a episode of ["Das literarische Quartett"][quartett-wiki]. There are many, many videos of it up on [YouTube][quartett-ty].
+For anyone interested in literature this is a great ressource (and speaking german of course 😁).
+
+**EXAMPLES OF TITLES NAMED BY FLORENTIN HERE**
+
+At the end of the episode Florentin posed the idea: How great would it be, if there exists a bot that creates top litertature lists with randomly created book titles and authors?
+
+Then it struck me: Why not build it?
+
+## The books
+Getting hold of randomly created book titles is not to hard to come by.
+A quick google search gave me the perfect result: [buchtitelgenerator.de][buchtitel-generator].
+Exactly what I was looking for.
+
+As the time of writing this I am getting this result:
+
+1. Eine britische Kehle mit Sorge
+2. Stock ohne Sonne
+3. Desillusionierte Geburten in der Mitte
+4. Der Müller der Adjutanten
+5. Farbenfrohe Nixen der Stelle
+
+Interestingly the site even tells you the *algorithm* it uses to create the titels.
+It says above the list
+
+>Aus 1194 Substantiven und 1011 Adjektiven werden jeweils fünf Buchtitel zufällig erzeugt.
+
+Which translates to *"Creating 5 random book titles using 1194 substantives and 1011 adjectives."*
+
+My idea was simple: Build a webscraper and call the site and scrape the table with titles.
+
+**But:** I am a fair player. Can I simply use the titles? What about copywrite?
+I contacted the owner and asked politely if his site offers a public REST API endpoint and if I can use the generated titles for a side project.
+
+I did not think he would answer. Maybe, I thought, the idea might die in an early stage.
+
+But no! Surprisingly: Got I an answer! And a positive one indeed.
+He wrote:
+
+>Hallo Marius,
+>derzeit gibt es leider noch keine REST API vom Buchtitelgenerator, ist aber eine gute Idee. Nur werde ich vor Herbst nicht dazu kommen...
+>
+>Die Nutzung und Verwendung der Buchtitel vom Buchtitelgenerator (z.B. Twitter) ist unter Nennung der Quelle buchtitelgenerator.de gerne möglich.
+>
+>Beste Grüße, Peer
+
+English tl;dr: No REST API yet (nice idea though). Feel free to use the titles if you give credit.
+
+## The authors
+
+
+
+
+[buchtitel-generator]: https://buchtitelgenerator.de/generator/
+[florentin]: https://de.wikipedia.org/wiki/Florentin_Will
+[stefan]: https://de.wikipedia.org/wiki/Stefan_Titze
+[pufo-podcast]: https://podcast-ufo.fail/
+[episode]: 
+[quartett-wiki]: https://de.wikipedia.org/wiki/Das_Literarische_Quartett
+[quartett-ty]: https://www.youtube.com/results?search_query=literarische+quartett
