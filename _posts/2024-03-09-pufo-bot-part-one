@@ -85,8 +85,24 @@ There were two problems: First, you could query the api for multiple names at on
 
 There was an ever bigger problem. In open sight: The site was not reliable. Offline.Gone. This posed a problem. Where do I get the names now from?
 
-
 ### opendata
+It was not possible to rely on some api so what is left was to get my hand dirty and build a data set on my own. Surpisingly easy were surnames. Quick search and I found a [file `nachnamen.txt`][nachnamen-txt] in a github rep from [HBehrens][hbehrens]. The data is quite simple: ~10k names split by a newline `\n`.
+50% of names DONE. Great.
+
+Going on with first names. This was not as easy.
+I chose to use newborn names from [OffeneDaten-Köln][offene-daten].
+For this I chose the five latest ones starting 2021 and going back. 
+When I started they had single files per year. Seems like they refactored the files into two big ones:
+
+1. 2010-2018
+2. 2019-2022
+
+
+
+
+
+
+
 
 
 
@@ -94,9 +110,11 @@ There was an ever bigger problem. In open sight: The site was not reliable. Offl
 [florentin]: https://de.wikipedia.org/wiki/Florentin_Will
 [stefan]: https://de.wikipedia.org/wiki/Stefan_Titze
 [pufo-podcast]: https://podcast-ufo.fail/
-[episode]: 
+<!-- [episode]:  -->
 [quartett-wiki]: https://de.wikipedia.org/wiki/Das_Literarische_Quartett
 [quartett-ty]: https://www.youtube.com/results?search_query=literarische+quartett
-
 [randomname]: https://web.archive.org/web/20230127135402/https://randomname.de/
 [offenedaten-koeln]: https://offenedaten-koeln.de/
+[nachnamen-txt]: https://github.com/HBehrens/phonet4n/blob/master/src/Tests/data/nachnamen.txt
+[hbehrens]: https://github.com/HBehrens
+[offene-daten]: https://offenedaten-koeln.de/dataset/vornamen
