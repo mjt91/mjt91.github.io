@@ -114,8 +114,7 @@ For instance above there were 300 new born with the name Marie. This  makes sens
 Next step was to boot up a good old Jupyter notebook, import pandas and merge all the csv-files into one.[^1]
 The result is [quite a long list of ~25.5k lines of names][first-names-file].
 
-
-[^1]: At first I used the merged file as it is. Only after I created a few random book-author-combinations I found that the name distribution is quite skewed. I got plenty books with first-name Marie and other very common names. Only after I dropped all duplicates the list became usable for my use-case.
+[^1]: *At first I used the merged file as it is. Only after I created a few random book-author-combinations I found that the name distribution is quite skewed. I got plenty books with first-name Marie and other very common names. Only after I dropped all duplicates the list became usable for my use-case.*
 
 ## Twitter API
 
