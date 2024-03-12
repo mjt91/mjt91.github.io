@@ -83,7 +83,7 @@ Unfortunately, the site was not really reachable exactly after I build the modul
 
 There were two problems: First, you could query the api for multiple names at once. But often it returned the same name multiple times in the returned `json`. 
 
-There was an ever bigger problem. In open sight: The site was not reliable. Offline.Gone. This posed a problem. Where do I get the names now from?
+There was an ever bigger problem. In open sight: The site was not reliable. Offline. Gone. This posed a problem. Where to go and get the names now from?
 
 ### Opendata
 It was not possible to rely on some api so what is left was to get my hand dirty and build a data set on my own. Surpisingly easy were surnames. Quick search and I found a [file `nachnamen.txt`][nachnamen-txt] in a github rep from [HBehrens][hbehrens]. The data is quite simple: ~10k names split by a newline `\n`.
@@ -119,9 +119,22 @@ The result is [quite a long list of ~25.5k lines of names][first-names-file].
 
 ## Twitter API
 
+Setting up a new [twitter account][pufo-bot-twitter] and setting up the connection was well documented as well.
 
+Things got a bit fuzzy when [Elon bought tiwtter][elon-twitter] because they changed some things around. In the end I needed to use another authentication method and this settled it.
 
+## Deployment
+Once I build the bot with the help of [tweepy python package][tweepy]. I put the dock on my [raspberry pi][raspberry-pi] and schdule a cron job to run it every Friday at 9 a.m. CET.
 
+Only recently I looked into deploying it via Docker. This is working like a charm for now, but not yet merged into my master branch.
+
+## Conclusion
+The bot is live at [@BotPufo][pufo-bot-twitter] on X (fka twitter).
+The repo can be found on [Github.com][pufo-bot-repo].
+
+A really fun project and I have many ideas how go on with it. Also in the domain of large language models.
+Given I find the time.
+And always hoping that [my source for the random books][buchtitel-generator] will not shut down.
 
 
 [buchtitel-generator]: https://buchtitelgenerator.de/generator/
@@ -137,4 +150,8 @@ The result is [quite a long list of ~25.5k lines of names][first-names-file].
 [hbehrens]: https://github.com/HBehrens
 [offene-daten]: https://offenedaten-koeln.de/dataset/vornamen
 [first-names-file]: https://github.com/mjt91/pufo-twitter-bot/blob/main/src/pufo_twitter_bot/data/first-names-merged.csv
-
+[elon-twitter]: https://www.nytimes.com/2022/10/27/technology/elon-musk-twitter-deal-complete.html
+[pufo-bot-twitter]: https://twitter.com/BotPufo
+[pufo-bot-repo]: https://github.com/mjt91/pufo-twitter-bot
+[tweepy]: https://www.tweepy.org/
+[raspberry-pi]: https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
