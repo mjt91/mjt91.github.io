@@ -85,7 +85,7 @@ There were two problems: First, you could query the api for multiple names at on
 
 There was an ever bigger problem. In open sight: The site was not reliable. Offline.Gone. This posed a problem. Where do I get the names now from?
 
-### opendata
+### Opendata
 It was not possible to rely on some api so what is left was to get my hand dirty and build a data set on my own. Surpisingly easy were surnames. Quick search and I found a [file `nachnamen.txt`][nachnamen-txt] in a github rep from [HBehrens][hbehrens]. The data is quite simple: ~10k names split by a newline `\n`.
 50% of names DONE. Great.
 
@@ -115,9 +115,11 @@ Next step was to boot up a good old Jupyter notebook, import pandas and merge al
 The result is [quite a long list of ~25.5k lines of names][first-names-file].
 
 
-
-
 [^1]: At first I used the merged file as it is. Only after I created a few random book-author-combinations I found that the name distribution is quite skewed. I got plenty books with first-name Marie and other very common names. Only after I dropped all duplicates the list became usable for my use-case.
+
+## Twitter API
+
+
 
 
 
