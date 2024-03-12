@@ -91,12 +91,28 @@ It was not possible to rely on some api so what is left was to get my hand dirty
 
 Going on with first names. This was not as easy.
 I chose to use newborn names from [OffeneDaten-Köln][offene-daten].
-For this I chose the five latest ones starting 2021 and going back. 
+For this I chose the five starting from 2010 to 2014.
 When I started they had single files per year. Seems like they refactored the files into two big ones:
 
 1. 2010-2018
 2. 2019-2022
 
+Fortunately I still have the old files (there were commited to the repo). Here is a quick look inside 2010's file:
+
+```csv
+vorname,anzahl,geschlecht
+Marie,300,w
+Sophie,239,w
+Maximilian,169,m
+Maria,161,w
+Alexander,148,m
+```
+
+A simple `.csv` file with three columns: first name, count and sex.
+For instance above there were 300 new born with the name Marie. This  makes sense, since this is ranking number one on the list of most common names in Germany for a long time.
+
+Next step was to boot up a good old Jupyter notebook, import pandas and merge all the csv-files into one.
+The result is [quite a long list of ~25.5k lines of names][first-names-file].
 
 
 
@@ -118,3 +134,5 @@ When I started they had single files per year. Seems like they refactored the fi
 [nachnamen-txt]: https://github.com/HBehrens/phonet4n/blob/master/src/Tests/data/nachnamen.txt
 [hbehrens]: https://github.com/HBehrens
 [offene-daten]: https://offenedaten-koeln.de/dataset/vornamen
+[first-names-file]: https://github.com/mjt91/pufo-twitter-bot/blob/main/src/pufo_twitter_bot/data/first-names-merged.csv
+
