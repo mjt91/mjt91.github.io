@@ -86,5 +86,5 @@ jekyll-archives:
     tag: archive
     categories: archive
   permalinks:
-    tag: /tags/:name/
+    tag: /tag/:name/
     category: /categories/:name/
