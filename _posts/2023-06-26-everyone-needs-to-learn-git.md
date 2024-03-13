@@ -1,9 +1,10 @@
 ---
-title: "Everyone in Business needs to learn git"
+title: Everyone in Business needs to learn git
 categories:
   - blog
 tags:
   - productivity
+excerpt: The case for better 
 ---
 
 I love using git. I love the workflow.
