@@ -6,6 +6,7 @@ tags:
   - python
   - productivity
   - linux
+excerpt: Which tools I use on a (almost) daily basis
 ---
 
 The list is not exhaustive, but here we go

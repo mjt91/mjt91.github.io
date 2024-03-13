@@ -1,10 +1,11 @@
 ---
-title: "Merging a time series dataframe on a multi index"
+title: Merging a time series dataframe on a multi index
 categories:
   - blog
 tags:
   - python
-  - data science
+  - data-science
+excerpt: Merging can be tricky for huge dataframes. Let's make it look easy.
 ---
 
 In my current role I am frequently (pun intended!) working with time series data.
