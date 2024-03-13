@@ -4,7 +4,7 @@ categories:
   - blog
 tags:
   - productivity
-excerpt: The case for better 
+excerpt: The case for version control outside software engineering
 ---
 
 I love using git. I love the workflow.

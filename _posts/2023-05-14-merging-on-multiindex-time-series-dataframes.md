@@ -5,7 +5,7 @@ categories:
 tags:
   - python
   - data-science
-excerpt: How to slice the elephant
+excerpt: Merging can be tricky for huge dataframes. Let's make it look easy.
 ---
 
 In my current role I am frequently (pun intended!) working with time series data.

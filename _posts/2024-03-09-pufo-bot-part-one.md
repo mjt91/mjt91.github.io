@@ -4,6 +4,7 @@ categories:
   - blog
 tags:
   - python
+excerpt: How a funny sketch in a podcast got me to build a twitter bot
 ---
 
 I am a big fan of the [Podcast UFO Podcast][pufo-podcast].
