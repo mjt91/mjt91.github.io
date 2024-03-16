@@ -17,13 +17,11 @@ I feel like they are really like that.
 
 ## The idea
 
-I [episode PLACEHOLDER][episode] Florentin tells that he want in a deep rabbit hole of randomness.
+In [epidose no. UFO263 - Zufall][episode] Florentin tells that he want in a deep rabbit hole of randomness.
 He spent his Saturday evening creating random names on some website and went on creating random book titles from another website.
 
 It turned out in a beautiful impro sketch where Florentin and Stefan played out a episode of ["Das literarische Quartett"][quartett-wiki]. There are many, many videos of it up on [YouTube][quartett-ty].
-For anyone interested in literature this is a great ressource (and speaking german of course 😁).
-
-**EXAMPLES OF TITLES NAMED BY FLORENTIN HERE**
+For anyone interested in literature this is a great ressource (and for those who are speaking german of course 😁).
 
 At the end of the episode Florentin posed the idea: How great would it be, if there exists a bot that creates top litertature lists with randomly created book titles and authors?
 
@@ -141,7 +139,7 @@ And always hoping that [my source for the random books][buchtitel-generator] wil
 [florentin]: https://de.wikipedia.org/wiki/Florentin_Will
 [stefan]: https://de.wikipedia.org/wiki/Stefan_Titze
 [pufo-podcast]: https://podcast-ufo.fail/
-<!-- [episode]:  -->
+[episode]: https://pufopedia.info/wiki/UFO263_Zufall
 [quartett-wiki]: https://de.wikipedia.org/wiki/Das_Literarische_Quartett
 [quartett-ty]: https://www.youtube.com/results?search_query=literarische+quartett
 [randomname]: https://web.archive.org/web/20230127135402/https://randomname.de/
