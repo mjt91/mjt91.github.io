@@ -17,7 +17,7 @@ I feel like they are really like that.
 
 ## The idea
 
-In [epidose no. UFO263 - Zufall][episode] Florentin tells that he want in a deep rabbit hole of randomness.
+In [episode no. UFO263 - "Zufall"][episode] Florentin tells that he want in a deep rabbit hole of randomness.
 He spent his Saturday evening creating random names on some website and went on creating random book titles from another website.
 
 It turned out in a beautiful impro sketch where Florentin and Stefan played out a episode of ["Das literarische Quartett"][quartett-wiki]. There are many, many videos of it up on [YouTube][quartett-ty].
@@ -74,7 +74,7 @@ But thinking about it for a while: Names are quite special.
 Very different in different places around the world.
 For this project I need quite ordinary names. Since all the book titles are in German the random authors should be *sounding german* but it would be great if they sound at least a bit exciting.
 
-### randomname.de
+### Source No 1: randomname.de
 <!-- First, I had a promising candiadate for the randomname source. -->
 A quick google search gave me a convenient looking source for the random author names as well: [randomname.de][randomname]. Note that this link will direct to the archived version of the site, as it is down since end of 2022.
 
@@ -84,7 +84,7 @@ There were two problems: First, you could query the api for multiple names at on
 
 There was an ever bigger problem. In open sight: The site was not reliable. Offline. Gone. This posed a problem. Where to go and get the names now from?
 
-### Opendata
+### Source No 2: Opendata
 It was not possible to rely on some api so what is left was to get my hand dirty and build a data set on my own. Surpisingly easy were surnames. Quick search and I found a [file `nachnamen.txt`][nachnamen-txt] in a github rep from [HBehrens][hbehrens]. The data is quite simple: ~10k names split by a newline `\n`.
 50% of names DONE. Great.
 
