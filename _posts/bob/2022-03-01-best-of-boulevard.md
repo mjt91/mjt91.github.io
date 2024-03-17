@@ -2,10 +2,10 @@
 title: "Best of Boulevard - February 2022"
 permalink: "bob/feb22"
 categories:
-  - Best of Boulevard
+  - best-of-boulevard
 tags:
-  - image
-  - top lists
+  - top-list
+  - fun
 ---
 
 In dieser neuen Kategorie zeige ich jeden Monat meine persönlichen TOP 3 [BILD](https://www.bild.de/) Überschriften.

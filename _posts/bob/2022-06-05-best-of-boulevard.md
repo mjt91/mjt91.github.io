@@ -2,10 +2,9 @@
 title: "Best of Boulevard - May 2022"
 permalink: "bob/may22"
 categories:
-  - Best of Boulevard
+  - best-of-boulevard
 tags:
-  - image
-  - top lists
+  - top-list
 ---
 
 In dieser neuen Kategorie zeige ich jeden Monat meine persönlichen TOP 3 [BILD](https://www.bild.de/) Überschriften.
