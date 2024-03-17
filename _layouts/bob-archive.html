@@ -1,0 +1,18 @@
+---
+layout: base
+---
+
+<ul class="posts cp">
+    {% for post in site.posts %}
+        {% if post.categories contains 'best-of-boulevard' %}
+            <div class="cp-listing">
+                <h4 class="cp-title">
+                    <a href="{{ post.url | relative_url }}" class="post-link">{{ post.title }}</a>
+                </h4>
+                <p class="cp-date">
+                    Posted on {{ post.date | date: "%d %b %Y" }}
+                </p>
+            </div>
+        {% endif %}
+    {% endfor %}
+</ul>
