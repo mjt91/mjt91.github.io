@@ -6,6 +6,7 @@ categories:
 tags:
   - top-list
   - fun
+  - de
 ---
 
 Die besten Aufmacher des Monats Januar.
