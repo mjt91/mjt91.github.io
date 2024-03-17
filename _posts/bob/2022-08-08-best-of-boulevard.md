@@ -8,6 +8,8 @@ tags:
   - fun
 ---
 
+Die besten Aufmacher des Monats Juli.
+
 In dieser neuen Kategorie zeige ich jeden Monat meine persönlichen TOP 3 [BILD](https://www.bild.de/) Überschriften.
 Oft steht dabei die Skurrilität im Vordergrund.
 Manchmal reicht auch schon das Grafikdesign um sich in dieser Liste zu verewigen.
