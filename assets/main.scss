@@ -114,9 +114,36 @@ a {
   color: var(--c-interactive)
 }
 
+// code {
+//   font-size: 15px;
+//   border: 1px solid #e8e8e8;
+//   border-radius: 3px;
+//   background-color: #eef;
+// }
+
+/* New styles for code tags within links */
+a code {
+  border: none;
+  background-color: transparent;
+}
+
 a:hover {
   color: #0056b3;
   text-decoration: underline
+}
+
+hr {
+  box-sizing:content-box;
+  overflow:visible;
+  margin-top:1rem;
+  border:0;
+  height:1px;
+  color:#d9d9d9;
+  background-color:#d9d9d9
+}
+
+.home>hr {
+  margin: 3rem;
 }
 
 .site-title {
@@ -217,4 +244,19 @@ a.tag:hover {
   color: #fff;
   background-color: var(--indigo);
   text-decoration: none
+}
+
+.home-title {
+  font-size: 1rem;
+  display: inline
+}
+
+.home-bullets li {
+  margin-left:-22px;
+  margin-bottom:12px
+}
+.home-bullets-posts li {
+  margin-left:-38px;
+  margin-bottom:10px;
+  list-style:none
 }
