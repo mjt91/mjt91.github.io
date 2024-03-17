@@ -5,6 +5,7 @@ categories:
   - best-of-boulevard
 tags:
   - top-list
+  - fun
 ---
 
 In dieser neuen Kategorie zeige ich jeden Monat meine persönlichen TOP 3 [BILD](https://www.bild.de/) Überschriften.
