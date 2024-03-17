@@ -21,8 +21,11 @@
 title: mjt91
 email: mjt91@omg.lol
 description: >- # this means to ignore newlines until "baseurl:"
-  mjt91 checking in. I write about data science, python, time series & forecasting,
-  philosophy and all the stuff that I want to write down.
+  MJT91 here. I currently work in Finance where I manily build forecasting 
+  systems using statistical methods or machine learning. 
+  Occasionally I use spredsheets. 
+  On here I will write about anything that comes to my mind. 
+  I will try to focus on data science, python, time series & forecasting.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mjt91
