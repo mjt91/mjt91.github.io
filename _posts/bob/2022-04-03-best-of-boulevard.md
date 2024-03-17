@@ -7,9 +7,8 @@ tags:
   - top-list
   - fun
   - de
+excerpt: Die besten Aufmacher des Monats März.
 ---
-
-Die besten Aufmacher des Monats März.
 
 In dieser neuen Kategorie zeige ich jeden Monat meine persönlichen TOP 3 [BILD](https://www.bild.de/) Überschriften.
 Oft steht dabei die Skurrilität im Vordergrund.

@@ -118,12 +118,14 @@ a {
   color: var(--c-interactive)
 }
 
-// code {
-//   font-size: 15px;
-//   border: 1px solid #e8e8e8;
-//   border-radius: 3px;
-//   background-color: #eef;
-// }
+figure,
+footer {
+  display:block
+}
+
+figure {
+  margin:0 0 1rem
+}
 
 /* New styles for code tags within links */
 a code {
