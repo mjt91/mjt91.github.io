@@ -85,8 +85,20 @@ h4 {
   line-height: 1.2
 }
 
+ul {
+  margin-top:0;
+  margin-bottom:.5rem
+}
+
 ul ul {
   margin-bottom: 0
+}
+
+ol,
+p,
+pre,
+ul {
+  margin-bottom:1.8rem
 }
 
 body,
