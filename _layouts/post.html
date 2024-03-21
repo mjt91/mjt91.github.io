@@ -4,18 +4,16 @@ layout: default
 
 <div class="post">
     <h1 class="post-title"> {{ page.title }} </h1>
-    <span>[
+
+    <p class="post-info">
+      <span class="no-italics">[
         {% for tag in page.tags %}
           {% capture tag_name %}{{ tag }}{% endcapture %}
           <a href="/tag/{{ tag_name }}" class="tag">{{ tag_name }}</a>
         {% endfor %}
-      ]
-      
-    </span>
-    <span>
-        ·  {% include reading-time.html %}
-    </span>
-    <br>
-    <br>
+      ]</span>
+      ·  {% include reading-time.html %}
+    </p>
+
     {{ content }}
 </div>

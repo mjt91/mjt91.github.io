@@ -278,6 +278,17 @@ li {
   color: #8c8c8c
 }
 
+.post-info {
+  font-size: 16px;
+  font-weight: 300;
+  font-style: italic;
+  margin-top: 0;
+  color: #666;
+}
+
+.no-italics {
+  font-style: normal;
+}
 
 .tag,
 a.tag {
