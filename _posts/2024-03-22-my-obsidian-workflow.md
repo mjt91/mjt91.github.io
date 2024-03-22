@@ -1,10 +1,11 @@
 ---
-title: My Obsidian Note-Taking-Workflow
+title: My Zettelkasten Note-Taking-System using Obsidian
 categories:
   - blog
 tags:
   - writing
-excerpt: Obsidian is beautifully minimalistic for note-taking.
+  - productivity
+excerpt: Obsidian is beautifully minimalistic for note-taking
 ---
 
 ## Why Obsidian is Great
