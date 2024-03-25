@@ -35,6 +35,7 @@ The [most relevant youtube videos][zettelkasten-obsidian-search] on the topic wh
 
 Notable mention:
 -  [The Only Beginner Obsidian Video You’ll Ever Need (youtube.com)][obsidian-beginner]
+-  [Zettelkasten Smart Notes: Step by Step (youtube.com)][zettelkasten-step-by-step]
 
 I am not the biggest fan of over-complex systems where I need to add a note there and then a workflow starts pushing my notes somewhere else, then notion template gets created pinging my on my phone etc.
 This is what most people have build, **but** then I found Artem Kirsanov and his brilliant simple take on it. See the video below:
@@ -260,3 +261,4 @@ A collection of resources that helps me to refine my zettelkasten system increme
 [eugene-obsidian]: https://eugeneyan.com/writing/note-taking-zettelkasten/
 [new-tab-native]: https://forum.obsidian.md/t/click-links-files-to-open-in-new-tab-by-default/7347
 [hackernews-zettels]: https://hn.algolia.com/?q=zettelkasten
+[zettelkasten-step-by-step]: https://www.youtube.com/watch?v=ziE6UExsOrs
