@@ -4,16 +4,16 @@
   {%- include head.html -%}
 
   <body>
+    
+    <div class="theme-container grow">
+      <div class="container" style="width: 95%">
+        {%- include header.html -%}
 
-    {%- include header.html -%}
-
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
         {{ content }}
-      </div>
-    </main>
 
-    {%- include footer.html -%}
+        {%- include footer.html -%}
+      </div>
+    </div>
 
   </body>
 
