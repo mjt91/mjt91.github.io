@@ -432,3 +432,70 @@ blockquote {
     margin-bottom:30px
   }
 }
+
+@media screen and (max-width:768px) {
+  .footer {
+    max-width:100%;
+    padding-right:0;
+    padding-left:0
+  }
+  .footer-col {
+    float:none;
+    width:-webkit-calc(100% - (10px/2));
+    width:calc(100% - (10px/2))
+  }
+}
+
+.footer {
+    max-width:100%;
+    margin:auto;
+    display:block;
+    padding-top:12px;
+    color: var(--gray);
+    border-top:1px solid #e5e5e5
+}
+
+.footer p {
+  font-family: $montserrat, Arial, Helvetica, sans-serif;
+}
+
+.footer a {
+  font-family: $montserrat, Arial, Helvetica, sans-serif;
+  color: var(--gray)
+}
+
+.footer-col-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  color: var(--gray);
+}
+
+.socials-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.socials-list li {
+  display: flex; /* Display social links inline */
+  align-items: center;
+  margin-right: 10px; /* Add some space between the links */
+}
+
+@media (max-width: 576px) {
+  .col-sm-6 {
+      flex: 0 0 100%; /* Stack the columns vertically on small screens */
+      max-width: 100%;
+  }
+}
+
+.footer .icon {
+  display: inline-block;
+}
+
+.icon {
+  vertical-align:middle;
+  width:16px;
+  height:16px;
+  margin-right:.2em;
+  filter:invert(57%) sepia(8%) saturate(11%) hue-rotate(73deg) brightness(88%) contrast(94%)
+}
