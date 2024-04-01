@@ -76,7 +76,7 @@ I chose to group them by these categories
 ## Cheatsheet
 I decided to build a nice cheatsheet (highly influenced by [Michael Goerz][michael-goerz]).
 
-TODO
+Find the cheat sheet available here: [Excel Shortcuts for the highly efficient (EN)][excel-pdf-en]
 
 
 [excel-meme-1]: https://www.instagram.com/p/CVktLJ0LCuo/
@@ -84,3 +84,4 @@ TODO
 [excel-meme-3]: https://www.reddit.com/r/consulting/comments/d745ss/_/
 [memes-xlsx-twitter]: https://x.com/ExcelHumor?s=20
 [michael-goerz]: https://michaelgoerz.net/refcards/
+[excel-pdf-en]: https://github.com/mjt91/excel-shortcuts-cheatsheet/blob/master/excel_refcard_en.pdf
