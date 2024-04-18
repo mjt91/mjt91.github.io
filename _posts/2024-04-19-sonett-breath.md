@@ -8,6 +8,9 @@ tags:
 excerpt: Ein Sonett zur Selbstfindung.
 ---
 
+Ich bin seit drei Wochen in einer neuen gesundheitlichen *Situation*, die mich sehr beschäftigt.
+Ein Ergebnis dieser Reise ist das folgende Sonett.
+
 <div align="center" style="font-style: italic;">
   Die See war ruhig eine ganze Zeit,<br>
   Ein Sturm in meiner Brust sich schwer entfaltet.<br>
