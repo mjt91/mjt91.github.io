@@ -77,11 +77,12 @@ I chose to group them by these categories
 I decided to build a nice cheatsheet (highly influenced by [Michael Goerz][michael-goerz]).
 
 Find the cheat sheet available here: [Excel Shortcuts for the highly efficient (EN)][excel-pdf-en]
-
+A german version (using German keyboard shortcuts) is available as well: [Excel Shortcuts (DE)][excel-pdf-de]
 
 [excel-meme-1]: https://www.instagram.com/p/CVktLJ0LCuo/
 [excel-meme-2]: https://www.facebook.com/ExcelHumor/photos/a.102498851181943/623397845758705/?_rdr
 [excel-meme-3]: https://www.reddit.com/r/consulting/comments/d745ss/_/
 [memes-xlsx-twitter]: https://x.com/ExcelHumor?s=20
 [michael-goerz]: https://michaelgoerz.net/refcards/
-[excel-pdf-en]: https://github.com/mjt91/excel-shortcuts-cheatsheet/blob/master/excel_refcard_en.pdf
+[excel-pdf-en]: https://github.com/mjt91/excel-shortcuts-cheatsheet/blob/04264c5d9d316c7f022d03dfb457114463712932/excel_refcard_en_a4.pdf
+[excel-pdf-de]: https://github.com/mjt91/excel-shortcuts-cheatsheet/blob/04264c5d9d316c7f022d03dfb457114463712932/excel_refcard_de_a4.pdf
