@@ -53,9 +53,9 @@ This one deserves a post on its own. Coming from Finance and been working in a l
 Also I can say I developed quite good skills myself.
 
 I will dedicate another post to excel.
-For inspiration check out [You Suck at Excel with Joel Spolsky](https://www.youtube.com/watch?v=0nbkaYsR94c):
+For inspiration check out [You Suck at Excel with Joel Spolsky](https://www.youtube.com/watch?v=JxBg4sMusIg):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nbkaYsR94c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=JxBg4sMusIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## [pyenv](https://github.com/pyenv/pyenv)
