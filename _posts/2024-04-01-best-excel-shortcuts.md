@@ -47,10 +47,12 @@ I chose to group them by these categories
 | <kbd>CTRL</kbd> + <kbd>N</kbd> | Open new workbook |
 | <kbd>CTRL</kbd> + <kbd>P</kbd> | Open print pre-view |
 | <kbd>CTRL</kbd> + <kbd>;</kbd> | Insert current date |
-| <kbd>CTRL</kbd> + <kbd>L</kbd> | Create table |
+| <kbd>CTRL</kbd> + <kbd>T</kbd> | Create table |
 | <kbd>CTRL</kbd> + <kbd>K</kbd> | Insert hyperlink |
 | <kbd>CTRL</kbd> + <kbd>D</kbd> | Flash fill from above |
 | <kbd>CTRL</kbd> + <kbd>+</kbd> | Insert new column/row if entire column/row is selected |
+
+**Note:** Excel allows to use  <kbd>CTRL</kbd> + <kbd>L</kbd> to create a table, but I prefer to use the one above, since <kbd>T</kbd> = table in my monkey mind 😄
 
 
 ## Navigation
