@@ -226,6 +226,31 @@ I have seen so many people hyping this plugin that I found it in my list of inst
 I am yet to make use of it properly.
 I think I will leave it installed to someday finally find the time to make proper use of it.
 
+### Image Context Menus
+Link: [obsidian-image-context-menus (github)][obsidian-image-context-menus]
+
+I found that for my workflow I am stronly relying on images.
+Be it a screenshot from a paper, video or presentation.
+Sometimes I need to share some images with my peers.
+
+Unfortunatley, Obsidian handles this not very nicely.
+All files I add will be saved to a dedicated _Files_ folder (this can be set in settings).
+When I need to send an image ad-hoc I always needed perform the following steps:
+
+1. find the image
+2. jump to the source (my Obsidian Files folder in the navigation)
+3. Right click the image
+4. Show in system explorer
+5. Open in Windows Image viewer
+6. Right click copy
+7. Paste it into chat window / email
+
+How horribly slow...
+
+After looking around a bit I found [many more people face][copy-image-forum-post-1] [the same problem][copy-image-forum-post-2].
+I those threads a real hero came forward and linked to a community plugin solving this problem: [obsidian-image-context-menus (github)][obsidian-image-context-menus]
+This plugin adds a small right-click-copy-to-clipboard functionality, that allows me to quickly share this image.
+
 ## Resources
 A collection of resources that helps me to refine my zettelkasten system incrementally.
 
@@ -258,7 +283,10 @@ A collection of resources that helps me to refine my zettelkasten system increme
 [admonitions-repo]: https://github.com/javalent/admonitions
 [obsidian-new-tab]: https://github.com/patleeman/obsidian-open-in-new-tab
 [obsidian-git-repo]: https://github.com/denolehov/obsidian-git
+[obsidian-image-context-menus]: https://github.com/NomarCub/obsidian-copy-url-in-preview
 [eugene-obsidian]: https://eugeneyan.com/writing/note-taking-zettelkasten/
 [new-tab-native]: https://forum.obsidian.md/t/click-links-files-to-open-in-new-tab-by-default/7347
 [hackernews-zettels]: https://hn.algolia.com/?q=zettelkasten
 [zettelkasten-step-by-step]: https://www.youtube.com/watch?v=ziE6UExsOrs
+[copy-image-forum-post-1]: https://support.microsoft.com/en-au/office/get-started-with-copilot-in-microsoft-teams-meetings-0bf9dd3c-96f7-44e2-8bb8-790bedf066b1
+[copy-image-forum-post-2]: https://forum.obsidian.md/t/double-click-or-right-click-on-image-in-preview-mode-to-open-in-external-viewer/11406
