@@ -68,7 +68,9 @@ There is even a [subreddit dedicated to the idea of a dumb phone][dumb-phone-red
 
 Often times this comes with buying an device that follows the characteristics from the definition above. Reysu has an excellent guide on how to turn you iphone into a dumb phone.
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7jVb1lLniEw?si=eUgBw71JVVAF-tL1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 When I first came across this, I thought this might be my solution and I tried to follow this guide, but then I thought this might be overkill for me: My screen time is way below average (50 percent of the German average).
 
@@ -143,13 +145,4 @@ This is my current setup and my highest ranking tips how to set up my iPhone wit
 [stronglifts]: https://stronglifts.com/stronglifts-5x5/
 [vivoactive-garmin]: https://www.garmin.com/de-DE/p/1057989?gad_source=1&gclid=Cj0KCQjwwae1BhC_ARIsAK4Jfrz3pkcaEzhooLrQcgTtb-xxkxCORPT2k0c43wohxOeibAk73PqXFIQaAo0MEALw_wcB
 [social-cooling]: https://www.socialcooling.de/
-
-
-
-
-
-
-
-
-
 
