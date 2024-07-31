@@ -17,7 +17,7 @@ I must say I am pretty strong when it comes to this. I do not react instantly wh
 
 Not everyone is like that. Many people have fallen into the endless feedback loop social media and smart phone apps. Data for Germany shows that the average screen time is almost around [five and a half hours][screentime-germany]. I do not reach that number: At the time of writing this last week I averaged 2h 22m of screen time activity:
 
-ADD IMAGE HERE
+![screentime](/assets/images/2024-07-31-screentime.jpeg)
 
 Having said that, I found that it sometimes to disrupt my work or focus times. It happend once too often, such that I sat down and looked out for ways to set up my phone for productivity.
 
@@ -87,6 +87,11 @@ For this I created three focus modes:
 3. Driving
 
 For work I removed my background (its is in space-gray) for both, the wallpaper and lock screen. Then I added two simple distraction free widgets to the home screen: Clock and calendar.
+
+<p float="center">
+  <img src="/assets/images/work-focus-lockscreen.PNG" width="100" />
+  <img src="assets/images/work-focus-background.PNG" width="100" />
+</p>
 
 Also note, that in the work focus mode I removed all other screens. It is just a single screen. This means even if I need to unlock my phone there is some kind of *friction* involved if I wanted to check out some social media.
 
