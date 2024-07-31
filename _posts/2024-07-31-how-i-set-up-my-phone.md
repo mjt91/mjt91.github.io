@@ -109,7 +109,7 @@ For me my phone always served as my alarm clock in the morning. But this meant b
 I tried to replace my phone with an old alarm clock I had since my childhood days (it was from Peanuts). I was way too loud and broke after some use (it was too old). I then upgraded to a (highly recommended) wake-up light from Philipps.
 
 <p float="center">
-  <img src="/assets/images/snoopy.jpg" width="100" />
+  <img src="/assets/images/snoopy-clock.jpg" width="100" />
   <img src="/assets/images/philipps-clock.png" width="100" />
 </p>
 
