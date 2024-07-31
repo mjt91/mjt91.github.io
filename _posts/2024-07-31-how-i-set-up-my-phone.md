@@ -108,7 +108,10 @@ For me my phone always served as my alarm clock in the morning. But this meant b
 
 I tried to replace my phone with an old alarm clock I had since my childhood days (it was from Peanuts). I was way too loud and broke after some use (it was too old). I then upgraded to a (highly recommended) wake-up light from Philipps.
 
-SNOOPY and PHILIPS IMAGE HERE
+<p float="center">
+  <img src="/assets/images/snoopy.jpg" width="100" />
+  <img src="/assets/images/philipps-clock.png" width="100" />
+</p>
 
 When I am traveling I do not take it with me. Also sometimes my wife wants to sleep longer than I do and sets up the alarm for her wake-up time (she is the admin of the wake-up light). Which brings me to my latest hack to get up in the morning: A watch. I currently use the [vivoactive][vivoactive-garmin] from Garmin. Overall completely happy with it and totally worth it. Again: Highly recommended.
 
