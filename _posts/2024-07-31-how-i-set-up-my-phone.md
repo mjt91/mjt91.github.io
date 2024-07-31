@@ -89,8 +89,8 @@ For this I created three focus modes:
 For work I removed my background (its is in space-gray) for both, the wallpaper and lock screen. Then I added two simple distraction free widgets to the home screen: Clock and calendar.
 
 <p float="center">
-  <img src="/assets/images/work-focus-lockscreen.PNG" width="100" />
-  <img src="assets/images/work-focus-background.PNG" width="100" />
+  <img src="/assets/images/work-focus-lockscreen.PNG" width="45%" />
+  <img src="/assets/images/work-focus-background.PNG" width="45%" />
 </p>
 
 Also note, that in the work focus mode I removed all other screens. It is just a single screen. This means even if I need to unlock my phone there is some kind of *friction* involved if I wanted to check out some social media.
@@ -114,8 +114,8 @@ For me my phone always served as my alarm clock in the morning. But this meant b
 I tried to replace my phone with an old alarm clock I had since my childhood days (it was from Peanuts). I was way too loud and broke after some use (it was too old). I then upgraded to a (highly recommended) wake-up light from Philipps.
 
 <p float="center">
-  <img src="/assets/images/snoopy-clock.jpg" width="100" />
-  <img src="/assets/images/philipps-clock.png" width="100" />
+  <img src="/assets/images/snoopy-clock.jpg" width="45%" />
+  <img src="/assets/images/philipps-clock.png" width="45%" />
 </p>
 
 When I am traveling I do not take it with me. Also sometimes my wife wants to sleep longer than I do and sets up the alarm for her wake-up time (she is the admin of the wake-up light). Which brings me to my latest hack to get up in the morning: A watch. I currently use the [vivoactive][vivoactive-garmin] from Garmin. Overall completely happy with it and totally worth it. Again: Highly recommended.
