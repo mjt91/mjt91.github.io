@@ -92,8 +92,10 @@ For this I created three focus modes:
 For work I removed my background (its is in space-gray) for both, the wallpaper and lock screen. Then I added two simple distraction free widgets to the home screen: Clock and calendar.
 
 <figure>
-  <img src="/assets/images/work-focus-lockscreen.PNG" width="45%" />
-  <img src="/assets/images/work-focus-background.PNG" width="45%" />
+  <p float="center">
+    <img src="/assets/images/work-focus-lockscreen.PNG" width="45%" />
+    <img src="/assets/images/work-focus-background.PNG" width="45%" />    
+  </p>
   <figcaption><i>My work focus lock screen and background.</i></figcaption>
 </figure>
 
@@ -119,8 +121,10 @@ I tried to replace my phone with an old alarm clock I had since my childhood day
 
 
 <figure>
-  <img src="/assets/images/snoopy-clock.jpg" width="45%" />
-  <img src="/assets/images/philipps-clock.png" width="45%" />
+  <p float="center">
+    <img src="/assets/images/snoopy-clock.jpg" width="45%" />
+    <img src="/assets/images/philipps-clock.png" width="45%" />
+  </p>
   <figcaption><i>Alarm clocks. Both are fine. I use the right one.</i></figcaption>
 </figure>
 
