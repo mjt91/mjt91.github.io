@@ -17,7 +17,10 @@ I must say I am pretty strong when it comes to this. I do not react instantly wh
 
 Not everyone is like that. Many people have fallen into the endless feedback loop social media and smart phone apps. Data for Germany shows that the average screen time is almost around [five and a half hours][screentime-germany]. I do not reach that number: At the time of writing this last week I averaged 2h 22m of screen time activity:
 
-![screentime](/assets/images/2024-07-31-screentime.jpeg)
+<figure>
+  <img src="/assets/images/2024-07-31-screentime.jpeg" alt="screen-time">
+  <figcaption><i>My average screentime. Socials is X, WhatsApp, Signal; Entertainment is YouTube; Games is Chess.</i></figcaption>
+</figure>
 
 Having said that, I found that it sometimes to disrupt my work or focus times. It happend once too often, such that I sat down and looked out for ways to set up my phone for productivity.
 
@@ -88,10 +91,11 @@ For this I created three focus modes:
 
 For work I removed my background (its is in space-gray) for both, the wallpaper and lock screen. Then I added two simple distraction free widgets to the home screen: Clock and calendar.
 
-<p float="center">
+<figure>
   <img src="/assets/images/work-focus-lockscreen.PNG" width="45%" />
   <img src="/assets/images/work-focus-background.PNG" width="45%" />
-</p>
+  <figcaption><i>My work focus lock screen and background.</i></figcaption>
+</figure>
 
 Also note, that in the work focus mode I removed all other screens. It is just a single screen. This means even if I need to unlock my phone there is some kind of *friction* involved if I wanted to check out some social media.
 
@@ -113,10 +117,12 @@ For me my phone always served as my alarm clock in the morning. But this meant b
 
 I tried to replace my phone with an old alarm clock I had since my childhood days (it was from Peanuts). I was way too loud and broke after some use (it was too old). I then upgraded to a (highly recommended) wake-up light from Philipps.
 
-<p float="center">
+
+<figure>
   <img src="/assets/images/snoopy-clock.jpg" width="45%" />
   <img src="/assets/images/philipps-clock.png" width="45%" />
-</p>
+  <figcaption><i>Alarm clocks. Both are fine. I use the right one.</i></figcaption>
+</figure>
 
 When I am traveling I do not take it with me. Also sometimes my wife wants to sleep longer than I do and sets up the alarm for her wake-up time (she is the admin of the wake-up light). Which brings me to my latest hack to get up in the morning: A watch. I currently use the [vivoactive][vivoactive-garmin] from Garmin. Overall completely happy with it and totally worth it. Again: Highly recommended.
 
