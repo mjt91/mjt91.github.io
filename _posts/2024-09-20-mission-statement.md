@@ -17,7 +17,7 @@ I highly recommend to do this yourself.
 
 # Mission Statement
 
-- I cherish my wife and family
+- I cherish my wife, family and nearest friends
 - I try to find fun in everyhing I do
 - I am not religious
 - If someone asked me who my God is, I would answer: *chance*
@@ -36,9 +36,10 @@ I highly recommend to do this yourself.
 - I am an early riser
 - I am honest and direct
 - One of my mottos is *"Hate the game - not the player"*
-- I don't believe in a *free lunch*
+- I don't believe in *free lunch*
 - I go through life with the attitude that if you truly want something, you must be honest with yourself, unafraid to pursue it, and have fun along the way
 - Hard work is important to me (*"Put in the hard work!"*)
+- I am very competitive
 - My thought process is driven by *"framework thinking"*
 
 [wiki-mission-statement]: https://en.wikipedia.org/wiki/Mission_statement
