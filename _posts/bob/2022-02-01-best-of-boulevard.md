@@ -16,20 +16,18 @@ Manchmal reicht auch schon das Grafikdesign um sich in dieser Liste zu verewigen
 
 
 ## #3
-![Djokovic](../assets/images/bob/01-2022/djokovic.jpg)
-
+![Djokovic](/assets/images/bob/2022-01/djokovic.jpg)
 
 ## #2
-![Hoeness](../assets/images/bob/01-2022/hoeness.jpg)
-
+![Hoeness](/assets/images/bob/2022-01/hoeness.jpg)
 
 ## #1
-![Namibia](../assets/images/bob/01-2022/namibia.jpg)
+![Namibia](/assets/images/bob/2022-01/namibia.jpg)
 
 
 ## Honorable Mentions
 
-![Danes](../assets/images/bob/01-2022/danes.jpg)
-![Rihanna](../assets/images/bob/01-2022/rihanna.jpg)
-![Wieler](../assets/images/bob/01-2022/wieler.jpg)
-![Beton](../assets/images/bob/01-2022/beton.jpg)
+![Danes](/assets/images/bob/2022-01/danes.jpg)
+![Rihanna](/assets/images/bob/2022-01/rihanna.jpg)
+![Wieler](/assets/images/bob/2022-01/wieler.jpg)
+![Beton](/assets/images/bob/2022-01/beton.jpg)

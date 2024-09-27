@@ -16,20 +16,20 @@ Manchmal reicht auch schon das Grafikdesign um sich in dieser Liste zu verewigen
 
 
 ## #3
-![Trabant](../assets/images/bob/06-2022/trabi.PNG)
+![Trabant](/assets/images/bob/2022-06/trabi.PNG)
 
 
 ## #2
-![Flughafen](../assets/images/bob/06-2022/fluch.JPG)
+![Flughafen](/assets/images/bob/2022-06/fluch.JPG)
 
 
 ## #1
-![Hoden weg](../assets/images/bob/06-2022/legat.JPG)
+![Hoden weg](/assets/images/bob/2022-06/legat.JPG)
 
 
 ## Honorable Mentions
-![Hoden weg2](../assets/images/bob/06-2022/legat2.PNG)
-![Ecclestone](../assets/images/bob/06-2022/stone.PNG)
-![Wetter](../assets/images/bob/06-2022/rumms.PNG)
-![Mali](../assets/images/bob/06-2022/bumbum.JPG)
-![Bier](../assets/images/bob/06-2022/bier06.PNG)
+![Hoden weg2](/assets/images/bob/2022-06/legat2.PNG)
+![Ecclestone](/assets/images/bob/2022-06/stone.PNG)
+![Wetter](/assets/images/bob/2022-06/rumms.PNG)
+![Mali](/assets/images/bob/2022-06/bumbum.JPG)
+![Bier](/assets/images/bob/2022-06/bier06.PNG)
