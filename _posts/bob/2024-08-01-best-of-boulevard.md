@@ -16,18 +16,18 @@ Manchmal reicht auch schon das Grafikdesign um sich in dieser Liste zu verewigen
 
 
 ## #3
-![de Bräune](../assets/images/bob/07-2024/weiss.JPEG)
+![de Bräune](/assets/images/bob/2024-07/weiss.JPEG)
 
 
 ## #2
-![Biden](../assets/images/bob/07-2024/bett.PNG)
+![Biden](/assets/images/bob/2024-07/bett.PNG)
 
 
 ## #1
-![Spanier](../assets/images/bob/07-2024/doner.JPEG)
+![Spanier](/assets/images/bob/2024-07/doner.JPEG)
 
 
 ## Honorable Mentions
-![bier](../assets/images/bob/07-2024/karte.PNG)
+![bier](/assets/images/bob/2024-07/karte.PNG)
 
 

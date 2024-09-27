@@ -16,19 +16,19 @@ Manchmal reicht auch schon das Grafikdesign um sich in dieser Liste zu verewigen
 
 
 ## #3
-![Novanix](../assets/images/bob/02-2022/nova.PNG)
+![Novanix](/assets/images/bob/2022-02/nova.PNG)
 
 
 ## #2
-![Trump](../assets/images/bob/02-2022/trump.PNG)
+![Trump](/assets/images/bob/2022-02/trump.PNG)
 
 
 ## #1
-![Ectasy](../assets/images/bob/02-2022/schampus1.PNG)
+![Ectasy](/assets/images/bob/2022-02/schampus1.PNG)
 
 
 ## Honorable Mentions
-![Ectasy 3](../assets/images/bob/02-2022/schampus3.PNG)
-![Ectasy 2](../assets/images/bob/02-2022/schampus2.PNG)
-![Hank](../assets/images/bob/02-2022/hank.png)
-![Zucker](../assets/images/bob/02-2022/ben.PNG)
+![Ectasy 3](/assets/images/bob/2022-02/schampus3.PNG)
+![Ectasy 2](/assets/images/bob/2022-02/schampus2.PNG)
+![Hank](/assets/images/bob/2022-02/hank.png)
+![Zucker](/assets/images/bob/2022-02/ben.PNG)

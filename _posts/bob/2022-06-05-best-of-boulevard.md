@@ -16,24 +16,24 @@ Manchmal reicht auch schon das Grafikdesign um sich in dieser Liste zu verewigen
 
 
 ## #3
-![Brüder 4](../assets/images/bob/05-2022/kegelbrothers_4.jpg)
+![Brüder 4](/assets/images/bob/2022-05/kegelbrothers_4.jpg)
 
 
 ## #2
-![Musk](../assets/images/bob/05-2022/musk.jpg)
+![Musk](/assets/images/bob/2022-05/musk.jpg)
 
 
 ## #1
-![Ehre](../assets/images/bob/05-2022/ehre.jpg)
+![Ehre](/assets/images/bob/2022-05/ehre.jpg)
 
 
 ## Honorable Mentions
-![Oh no](../assets/images/bob/05-2022/bibi.jpg)
-![Adler](../assets/images/bob/05-2022/atilla.jpg)
+![Oh no](/assets/images/bob/2022-05/bibi.jpg)
+![Adler](/assets/images/bob/2022-05/atilla.jpg)
 
 
 ### Kegelbrüder Special
-![Brüder 1](../assets/images/bob/05-2022/kegelbrothers_1.jpg)
-![Brüder 2](../assets/images/bob/05-2022/kegelbrothers_2.jpg)
-![Brüder 3](../assets/images/bob/05-2022/kegelbrothers_3.jpg)
+![Brüder 1](/assets/images/bob/2022-05/kegelbrothers_1.jpg)
+![Brüder 2](/assets/images/bob/2022-05/kegelbrothers_2.jpg)
+![Brüder 3](/assets/images/bob/2022-05/kegelbrothers_3.jpg)
 

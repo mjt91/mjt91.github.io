@@ -16,27 +16,27 @@ Manchmal reicht auch schon das Grafikdesign um sich in dieser Liste zu verewigen
 
 
 ## #3
-![Lauterbach](../assets/images/bob/04-2022/lauterbach.jpg)
+![Lauterbach](/assets/images/bob/2022-04/lauterbach.jpg)
 
 
 ## #2
-![Prinz](../assets/images/bob/04-2022/krone.jpg)
+![Prinz](/assets/images/bob/2022-04/krone.jpg)
 
 
 ## #1
-![Imbiss](../assets/images/bob/04-2022/doner.jpg)
+![Imbiss](/assets/images/bob/2022-04/doner.jpg)
 
 
 ## Honorable Mentions
-![Ectasy 4](../assets/images/bob/04-2022/murray.jpg)
-![Ectasy 4](../assets/images/bob/04-2022/netflix.jpg)
-![Hansi](../assets/images/bob/04-2022/pott.jpg)
-![Fury](../assets/images/bob/04-2022/fury.jpg)
-![Madonna](../assets/images/bob/04-2022/skandal.jpg)
-![Kokain 1](../assets/images/bob/04-2022/stalin.jpg)
+![Ectasy 4](/assets/images/bob/2022-04/murray.jpg)
+![Ectasy 4](/assets/images/bob/2022-04/netflix.jpg)
+![Hansi](/assets/images/bob/2022-04/pott.jpg)
+![Fury](/assets/images/bob/2022-04/fury.jpg)
+![Madonna](/assets/images/bob/2022-04/skandal.jpg)
+![Kokain 1](/assets/images/bob/2022-04/stalin.jpg)
 
 
 ### Boris Special
-![Boris 1](../assets/images/bob/04-2022/boris1.jpg)
-![Boris 2](../assets/images/bob/04-2022/boris2.jpg)
+![Boris 1](/assets/images/bob/2022-04/boris1.jpg)
+![Boris 2](/assets/images/bob/2022-04/boris2.jpg)
 
