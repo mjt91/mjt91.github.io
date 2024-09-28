@@ -29,5 +29,5 @@ Manchmal reicht auch schon das Grafikdesign um sich in dieser Liste zu verewigen
 
 ## Honorable Mentions
 ![bier](/assets/images/bob/2024-07/karte.PNG)
-
+![shakira](/assets/images/bob/2024-07/klima-shakira.jfif)
 
