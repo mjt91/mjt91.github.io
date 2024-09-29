@@ -14,7 +14,11 @@ Let's get right to it, here is an excerpt from the podcast (I created an audiogr
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c9jxLrzZBnE?si=TlrqFrJBaxJG8NG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-Sounds great, doesn't it?
+Sounds great, doesn't it? Here is another highlight:
+
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Ju3IEVHqPM" title="A Handful of Factors: Size Premium Surprise in the German Stock Market" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 This weekend during my gardening duties I listened to [Super Data Science Pocast][super-data-science-podcast].
 Host Jon Krohn transformed his Phd thesis using [Googles Notebook LM][notebook-lm] and let it play for the last 12 minutes of episode 822.
