@@ -18,9 +18,13 @@ The two hosts in the podcast sounded like they were real people, not AI-driven a
 This inspired me to experiment with the tool myself and turn my own Master's thesis into a podcast. And here it is:
 
 <audio controls> 
-  <source src="https://drive.google.com/uc?export=download&id=1buQDWQnzQWaiDpNIdIp38hB17sLaLLVD"> 
+  <source src="https://audio.com/marius-theiss/audio/a-handful-of-factors-fama-french-five-factor-model-for-germany-ai-podcast"> 
   Your browser does not support the audio element.
 </audio>
+
+<div style="height: 228px; width: 100%;"><iframe src="https://audio.com/embed/audio/1811613416717810?theme=image"
+    style="display:block; border-radius: 6px; border: none; height: 204px; width: 100%;"></iframe><a href='https://audio.com/marius-theiss' style="text-align: center; display: block; color: #A4ABB6; font-size: 12px; font-family: sans-serif; line-height: 16px; margin-top: 8px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">@mjt91</a></div>
+
 
 ## A step further: Audiograms
 
