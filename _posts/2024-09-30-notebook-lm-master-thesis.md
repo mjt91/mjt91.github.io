@@ -8,19 +8,25 @@ tags:
 excerpt: Playing around with Googles Notebook LM
 ---
 
-This weekend during my gardening duties I listened to [Super Data Science Pocast][super-data-science-podcast].
-Host Jon Krohn transformed his Phd thesis using [Googles Notebook LM][notebook-lm] and let it play for the last 12 minutes of episode 822.
+This weekend, while tending to my garden, I tuned in to the [Super Data Science Podcast][super-data-science-podcast].
+Host Jon Krohn did something intriguing—he transformed his PhD thesis using [Google's Notebook LM][notebook-lm] and showcased the result during the last 12 minutes of episode 822.
 
-And what so say? It really sounds like modern podcast you get - admittedly - a lot on Spotify or Apple Podcasts.
-Nevertheless it has exceptional quality and for me personally a great showcase of generative AI 
-(ChatGPT is almost 2 years old now, and we still looking for the big impact use cases, but thats a story for another time.).
-The two hosts behave exactly like two _real_ podcast hosts.
+And how did it sound? Just like a modern podcast, the type you commonly find on platforms like Spotify or Apple Podcasts. However, the quality was exceptional, and for me, it served as a fantastic demonstration of generative AI.
+ChatGPT is nearly two years old, yet we're still searching for those game-changing use cases—but that's a discussion for another time.
 
-I decided to play around with it and transformed my own Master Thesis into a podcast.
-As it would be quite boring to simply post an link or audio player in this post, I went a step further and ran the finished product through [recast-studio][recast-studio] to create audiograms of some highlights.
-Unfortunately recast does only allow you to create two audiograms with the free version.
+The two hosts in the podcast sounded like they were real people, not AI-driven avatars.
+This inspired me to experiment with the tool myself and turn my own Master's thesis into a podcast. And here it is:
 
-Check out these two highlights from the podcast:
+<audio controls> 
+  <source src="https://drive.google.com/file/d/1buQDWQnzQWaiDpNIdIp38hB17sLaLLVD/view?usp=sharing" type="audio/mpeg"> 
+  Your browser does not support the audio element.
+</audio>
+
+## A step further: Audiograms
+
+Rather than just embedding an audio link here, I wanted to take it further. So, I used [Recast Studio][recast-studio] to reate audiograms, highlighting some of the best parts. They have an _ai driven helper functionality_ to find the number of highlights and mark it in the transskript, very handy! Unfortunately, the free version only allows you to make two audiograms for a maximum of two minutes each.
+
+Check out these two highlights:
 
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c9jxLrzZBnE?si=TlrqFrJBaxJG8NG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -32,7 +38,20 @@ Sounds great, doesn't it? Here is another highlight:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9Ju3IEVHqPM" title="A Handful of Factors: Size Premium Surprise in the German Stock Market" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-One lesson learned: uploading to [youtube now converts shorter videos always to youtube-shorts][yt-short-1], [if you not set the resolution to 16:9][yt-short-2].
+### Side-note on YouTube Shorts
+
+One interesting lesson learned: uploading shorter videos to YouTube now automatically converts them into YouTube Shorts unless you set the resolution to 16:9. It's something to keep in mind for future projects. [Some people seem not to like it][yt-short-1] and [other are stumbled but found a work-around it][yt-short-2].
+
+## Deep Dive: Exploring Google's NotebookLM
+
+This wasn't the first time I'd heard of Notebook LM. Earlier this week, a colleague at work mentioned the service. After playing with it myself, I'm quite impressed by its ability to turn complex documents into dynamic audio content.
+
+For anyone interested hear for yourself above.
+
+### How did it perform?
+
+An interesting thing to note here: the source file was my Master's thesis, about 100 pages long and written in German!
+Exactly: German. To my surprise, the podcast not only acknowledged that the original research was a German publication, but it also managed to capture almost all key insights from my thesis. And to top it off, NotebookLM also generated a summary of the uploaded file. Here's a translated excerpt:
 
 This was not the first time I heard about notebooklm. This week someone at work already pointed me to this service.
 
