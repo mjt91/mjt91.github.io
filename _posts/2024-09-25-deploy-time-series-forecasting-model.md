@@ -33,9 +33,6 @@ dataf = pd.read_parquet("data/m4-hourly.parquet")
 dataf.head()
 ```
 
-
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
@@ -93,7 +90,6 @@ dataf.head()
   </tbody>
 </table>
 </div>
-
 
 
 It is interesting to note, that the datetime column `ds` consists of integers (as this is hourly data) and was a design decision in the M4 forecasting competition.
@@ -159,11 +155,6 @@ print(forecasts)
 joblib.dump(model, './stored/autoarima_model.pkl')
 
 ```
-
-    /home/matheiss/jnbs/statsmodel-deploy/venv/lib/python3.11/site-packages/tqdm/auto.py:21: TqdmWarning: IProgress not found. Please update jupyter and ipywidgets. See https://ipywidgets.readthedocs.io/en/stable/user_install.html
-      from .autonotebook import tqdm as notebook_tqdm
-
-
        unique_id   ds    AutoARIMA
     0         H1  749   622.187886
     1         H1  750   581.155509
@@ -187,9 +178,6 @@ joblib.dump(model, './stored/autoarima_model.pkl')
     19        H2  758  2017.654962
 
 
-
-
-
     ['./stored/autoarima_model.pkl']
 
 
@@ -206,9 +194,6 @@ model = joblib.load('./stored/autoarima_model.pkl')
 ```python
 model.predict(2)
 ```
-
-
-
 
 <div>
 <style scoped>
