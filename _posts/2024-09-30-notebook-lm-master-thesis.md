@@ -18,7 +18,7 @@ The two hosts in the podcast sounded like they were real people, not AI-driven a
 This inspired me to experiment with the tool myself and turn my own Master's thesis into a podcast. And here it is:
 
 <audio controls> 
-  <source src="https://drive.google.com/file/d/1buQDWQnzQWaiDpNIdIp38hB17sLaLLVD/view?usp=sharing" type="audio/mpeg"> 
+  <source src="https://drive.google.com/file/d/1buQDWQnzQWaiDpNIdIp38hB17sLaLLVD/view" type="audio/mpeg"> 
   Your browser does not support the audio element.
 </audio>
 
