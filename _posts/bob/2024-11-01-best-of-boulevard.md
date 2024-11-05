@@ -16,18 +16,18 @@ Manchmal reicht auch schon das Grafikdesign um sich in dieser Liste zu verewigen
 
 
 ## #3
-![3](/assets/images/bob/2024-10/)
+![3](/assets/images/bob/2024-10/bundeswehr.PNG)
 
 
 ## #2
-![2](/assets/images/bob/2024-10/)
+![2](/assets/images/bob/2024-10/bargeld1.PNG)
 
 
 ## #1
-![1](/assets/images/bob/2024-10/)
+![1](/assets/images/bob/2024-10/geld3.PNG)
 
 
 ## Honorable Mentions
-![bier](/assets/images/bob/2024-10/)
-![shakira](/assets/images/bob/2024-10/)
+![](/assets/images/bob/2024-10/kakteen.PNG)
+![](/assets/images/bob/2024-10/puschen.JPG)
 
