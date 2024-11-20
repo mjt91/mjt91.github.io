@@ -9,4 +9,6 @@ excerpt: I love Saturdays nowadays...
 
 Notes:
 - Kaiserschmarren
-- Chicken Wings (?)
+- Chicken Wings incl. coleslaw (KFC)
+- Salty Pistaccios (whole nut)
+- 
