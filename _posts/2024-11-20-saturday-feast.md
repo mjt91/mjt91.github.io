@@ -35,10 +35,26 @@ My mornings are very plain (read: simple) under the Slow Carb diet: 3 eggs, spin
 When I am not following the Slow Carb diet I am skipping breakfast.
 
 Those are the cases which are not intersting for the sake of this post. Let's see what makes a great breakfast on cheat days.
+There are two modes that work for me:
+1. Sweet and warm (no ice cream allowed here)
 
-It must be sweet (hot) or bread (which is savory/sweet mixxed).
+My new favourite for sweet and warm breackfast is **Kaiserschmarrn**:
+
+![](https://img.chefkoch-cdn.de/rezepte/1031841208350942/bilder/1537796/crop-960x540/kaiserschmarrn-tiroler-landgasthofrezept.jpg)
+
+It is easy to make and blast to eat.
+
+Honerable mensions: crepês, some variation of pancakes and overnight oats.
+
+2. Bread (I prefer wheat) with cold cuts (savory) and end with something sweet (mostly a crossaint with some red fruit jam)
+
+When having bread for breakfast it must have this badboy on there:
+![](https://imgsrv1.shotshop.com/preview_new/2006_12/00000628_00000376-Wurst-Br%C3%B6tchen-Belegtes+Br%C3%B6tchen-Wurstsemmel.jpg)
+
+Any variation of french cheeses are fine too. And as mentioed: At the end a [nice croissaint](https://guide.michelin.com/en/article/features/decoding-the-delicious-croissant).
 
 ## Lunch
+
 TODO
 
 ## Dinner
