@@ -7,10 +7,7 @@ tags:
 excerpt: I love Saturdays nowadays...
 ---
 
-Notes:
-- Kaiserschmarren
-- Chicken Wings incl. coleslaw (KFC)
-- Salty Pistaccios (whole nut)
+
 
 I am a passionate eater. I love it salty.
 I love the good stuff, the fatty stuff (think: McDonalds, ...).
@@ -55,13 +52,14 @@ Any variation of french cheeses are fine too. And as mentioed: At the end a [nic
 
 ## Lunch
 
-TODO
+- Smash burgers (thin fries)
+- Maggi Fix Toscana balls (look for image)
 
 ## Dinner
-TODO
+- Chicken Wings incl. coleslaw (KFC)
 
 ## Snacks
-TODO
+- Salty Pistaccios (whole nut)
 
 ## Bonus: Calories (estimated)
 TODO
