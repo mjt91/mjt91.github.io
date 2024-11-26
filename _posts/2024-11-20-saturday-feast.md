@@ -46,6 +46,7 @@ Honerable mensions: crepês, some variation of pancakes and overnight oats.
 2. Bread (I prefer wheat) with cold cuts (savory) and end with something sweet (mostly a crossaint with some red fruit jam)
 
 When having bread for breakfast it must have this badboy on there:
+
 ![](https://imgsrv1.shotshop.com/preview_new/2006_12/00000628_00000376-Wurst-Br%C3%B6tchen-Belegtes+Br%C3%B6tchen-Wurstsemmel.jpg)
 
 Any variation of french cheeses are fine too. And as mentioed: At the end a [nice croissaint](https://guide.michelin.com/en/article/features/decoding-the-delicious-croissant).
@@ -60,9 +61,10 @@ Any variation of french cheeses are fine too. And as mentioed: At the end a [nic
 
 ## Snacks
 - Salty Pistaccios (whole nut)
+- Dark chocolate with nuts (almonds preferred)
 
 ## Bonus: Calories (estimated)
-TODO
+Let's better not talk about it.
 
 
-[slow-carb]: 
+[slow-carb]: https://en.wikipedia.org/wiki/The_4-Hour_Body
