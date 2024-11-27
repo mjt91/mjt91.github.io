@@ -53,11 +53,11 @@ Any variation of french cheeses are fine too. And as mentioed: At the end a [nic
 
 ## Lunch
 
-- Smash burgers (thin fries)
-- Maggi Fix Toscana balls (look for image)
+- Smash burgers (thin fries) looks like this: ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1-bpPlm8EoEPNklPfrhwUnlDTm3dMAFglCQ&s)
+- Maggi Fix Toscana balls looks like this: ![](https://www.gaumenfreundin.de/wp-content/uploads/2022/04/Hackbaellchen-Toscana-schnell.jpg)
 
 ## Dinner
-- Chicken Wings incl. coleslaw (KFC)
+- Chicken Wings incl. coleslaw (KFC) looks like this: ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYKcuFPcfieuU3vW3BFq4PVO1KHMOgi_i5Zw&s)
 
 ## Snacks
 - Salty Pistaccios (whole nut)
