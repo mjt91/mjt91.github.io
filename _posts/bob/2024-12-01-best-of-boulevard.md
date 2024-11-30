@@ -1,6 +1,6 @@
 ---
-title: "Best of Boulevard - Oktober 2024"
-permalink: "bob/dec24"
+title: "Best of Boulevard - November 2024"
+permalink: "bob/nov24"
 categories:
   - best-of-boulevard
 tags:
@@ -16,16 +16,14 @@ Manchmal reicht auch schon das Grafikdesign um sich in dieser Liste zu verewigen
 
 
 ## #3
-![3](/assets/images/bob/2024-11/)
-
+![](/assets/images/bob/2024-11/pumpe.JPEG)
 
 ## #2
-![2](/assets/images/bob/2024-11/)
-
+![](/assets/images/bob/2024-11/chicken-dinnger.PNG)
 
 ## #1
-![1](/assets/images/bob/2024-11/)
+![](/assets/images/bob/2024-11/bohlen2.JPEG)
 
 
 ## Honorable Mentions
-![](/assets/images/bob/2024-11/)
+![](/assets/images/bob/2024-11/goodbyeden.PNG)
