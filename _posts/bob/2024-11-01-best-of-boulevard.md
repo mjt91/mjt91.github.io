@@ -7,7 +7,7 @@ tags:
   - top-list
   - fun
   - de
-excerpt: Die besten Aufmacher des Monats August.
+excerpt: Die besten Aufmacher des Monats Oktober.
 ---
 
 In dieser neuen Kategorie zeige ich jeden Monat meine persönlichen TOP 3 [BILD](https://www.bild.de/) Überschriften.
