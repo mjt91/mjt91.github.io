@@ -1,5 +1,5 @@
 ---
-title: Transforming my Master Thesis into an AI Podcast
+title: Year in Review - 2024
 categories:
   - blog
 tags:
@@ -26,7 +26,7 @@ My current routine looks like this:
 
 ❌♟️**Chess:** I wanted to reach 1300 in rapid time format on [chess.com](chess.com), but failed to do so. It is not that I was stuck, moreover I did not find time (or courage?) to play more. I went to my local chess club (only once due to)
 
-TODO: add chess.com graph
+![chess-com-2024-FY](/assets/images/2024-chess-dot-com-review.png)
 
 ❌📖 **Reading:** I wanted to read more, also non-fiction. I only finished one book (but this was a big one): Atomic Habits. Great read and a great source of knowledge and guide for self improvement. I took many lessons from it. I started reading The Witcher series a couple 100 pages. It is nice, but it reads a bit harder than I would hoped (I love the story from having played the video games). Non fiction books will be on my reading list for 2025 again, as I feel it is a good thing to have a mix between fiction and non-fiction reading input.
 
@@ -46,9 +46,7 @@ I often said that curiosity and willing to learn is a staple in my life defining
 ## Health: From Glory to Hell and Back
 I needed to undergo some treatment mid 2024, which required me to stop taking important medication. This resulted in a severe downfall of my overall fitness level in the magnitude of  of (subjective) estimated -80%. Difference is running 3 kilometer in 08:30 min per kilometer and not managing to get up more than 1 floor without boosting up my heart rate above 120 bpm. It was **bad.** 
 
-The worst of it all: turns out I had not to stop taking this important medicine at all! After consulting another doctor he told me, there is no evidence that this should've been necessary. I was outraged. I wrote a sonnet at the time expressing how I felt at the time.
-
-- (TODO link) 
+The worst of it all: turns out I had not to stop taking this important medicine at all! After consulting another doctor he told me, there is no evidence that this should've been necessary. I was outraged. I wrote a sonnet at the time expressing how I felt at the time: [Ein Sturm in der Brust]({{ site.baseurl }}/blog/2024/04/19/sonett-breath.html)
 
 I am by no means a friend of pessimism. I went back onto the meds, got back into my fitness routine and fought back. The second half of the year went better for me. I have no troubles with increasing darkness and more rainy days than other people have (see Winterdepression), this helped a lot. I started to drink a cold glass of water in the morning to kickstart my metabolism. I still do this. It wakes me up way better.
 
@@ -104,8 +102,10 @@ I wrote about my mission statement first [here](https://mjt91.github.io/blog/202
 - My thought process is driven by _“framework thinking”_
 
 ## Top Memes from 2024
-I am a big fan of memes. Here are my top 3:
-TODO
-- Stammfunktion
-- (check twitter matheius)
-- Check WA images
+I am a big fan of memes. Here are my top 3 of the last year:
+
+![stammfunktion](/assets/images/stammfunktion.jpg)
+
+![xatar](/assets/images/xatar-pc.jpg)
+
+![matmul](/assets/images/matmul.jpg)
