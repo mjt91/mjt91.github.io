@@ -24,9 +24,13 @@ My current routine looks like this:
 
 ## Personal Growth Goals
 
-❌♟️**Chess:** I wanted to reach 1300 in rapid time format on [chess.com](chess.com), but failed to do so. It is not that I was stuck, moreover I did not find time (or courage?) to play more. I went to my local chess club (only once due to)
+❌♟️**Chess:** I wanted to reach 1300 in rapid time format on [chess.com](chess.com), but failed to do so. It is not that I was stuck, moreover I did not find time (or courage?) to play more.
 
 ![chess-com-2024-FY](/assets/images/2024-chess-dot-com-review.png)
+
+In the end I am only 81 rating points short of my goal. On the good side all my ratings increased, I even reached 1100 in blitz (+118 ppts).
+Also: I went to my local chess club. Only once due to time and work constraints, but it was a fun experience nevertheless. Maybe I will try to make it a re-occuring thing in 2025?
+
 
 ❌📖 **Reading:** I wanted to read more, also non-fiction. I only finished one book (but this was a big one): Atomic Habits. Great read and a great source of knowledge and guide for self improvement. I took many lessons from it. I started reading The Witcher series a couple 100 pages. It is nice, but it reads a bit harder than I would hoped (I love the story from having played the video games). Non fiction books will be on my reading list for 2025 again, as I feel it is a good thing to have a mix between fiction and non-fiction reading input.
 
