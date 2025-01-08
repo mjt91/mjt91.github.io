@@ -5,7 +5,7 @@ categories:
 tags:
   - life
   - career
-excerpt: Playing around with Googles Notebook LM
+excerpt: A Troubled Year, that ended quite well!
 ---
 
 # Reviewing my 2024 Goals
