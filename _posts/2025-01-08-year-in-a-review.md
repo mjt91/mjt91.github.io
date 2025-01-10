@@ -22,6 +22,9 @@ My current routine looks like this:
 - TI swim 1x per week
 - Some other form of exercise (boulder, badminton, ...) occasionally on the weekends
 
+✅ **Vacation:** I wanted to do a camping trip to a country I did not visit yet. And we did: We went to Denmark (west coast)! It was great, but weather did us quite dirty, as it was super windy and rainy. After camping for a while we made a u-turn back to Germany and the last days of our vacation was spent on [Fehmarn – Wikipedia](https://de.wikipedia.org/wiki/Fehmarn), which is known as *"Baltic Sea's Hawaii"*.
+
+
 ## Personal Growth Goals
 
 ❌♟️**Chess:** I wanted to reach 1300 in rapid time format on [chess.com](chess.com), but failed to do so. It is not that I was stuck, moreover I did not find time (or courage?) to play more.
@@ -39,12 +42,28 @@ Also: I went to my local chess club. Only once due to time and work constraints,
 ## Things I learned
 I often said that curiosity and willing to learn is a staple in my life defining who I am. I always try to find new things to dig deep into.
 
-### Machine Learning in Production (Coursera)
-- TODO
-### Consulting (Coursera)
-- TODO
-### Ramen
-- TODO
+🟠🍞**Baking:** I wanted to bake more (bread), which I did not follow up to hard on. Baked a few times, worked out quite well, but later this year I tried to cut white carbs from my diet, which basically banned bread from my diet.
+
+### ✅Machine Learning in Production (Coursera)
+- Finally back again on a course from Andrew Ng
+- Great course and highly recommendable
+- I think MLOps and having an idea what it takes to put models into production is a crucial skill nowadays (cannot be learned by a few chatgpt QnAs)
+- Top 3 things I learned from this:
+	- ML Project life-cycle
+	- Modern Approach update: Moving from a **model-centric** AI development to a **data-centric** development
+	- Developing reasonable baselines and what to do with them
+
+###  ✅ Consulting Presentations and Storytelling (Coursera)
+- Great course I finished in March 2024
+- Top 3 things I learned from this:
+	- *Withing the pyramid principle* there are multiple approaches to logically tell the story (SCR way, that is the argumentative structure **or** the grouping structure, i.e. Do A, Do B, Do C)
+	- Usage of [fishbone diagrams](https://en.wikipedia.org/wiki/Ishikawa_diagram) for identifying root causes of problems
+	- Concept of Gravitas
+
+### ✅Ramen
+- I wanted to make ramen for Christmas
+- I read [the book of Ramen](https://www.reddit.com/r/ramen/comments/hv9niv/my_brother_and_i_just_completed_a_free_ebook_on/?tl=de) and prepared [Tonkotsu Ramen](https://en.wikipedia.org/wiki/Tonkotsu_ramen) for 6 people
+- It was a blast and I learned alot. Will be doing it again!
 
 
 ## Health: From Glory to Hell and Back
