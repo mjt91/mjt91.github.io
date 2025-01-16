@@ -75,7 +75,7 @@ I am by no means a friend of pessimism. I went back onto the meds, got back into
 
 I still cannot believe how this turned out in the end. My heart rate has stabilized again, I am stronger than ever and learned to swim properly.
 
-- TODO add health graph about heart rate
+![heart-rate](/assets/images/2024-heart-rate.jpeg)
 
 From a health perspective 2024 can be summarized as "I went through hell and climbed back up!🚀"
 
