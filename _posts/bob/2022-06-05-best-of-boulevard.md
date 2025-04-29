@@ -16,24 +16,24 @@ Manchmal reicht auch schon das Grafikdesign um sich in dieser Liste zu verewigen
 
 
 ## #3
-![Brüder 4](/assets/images/bob/2022-05/kegelbrothers_4.jpg)
+![Brüder 4](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-05/kegelbrothers_4.jpg)
 
 
 ## #2
-![Musk](/assets/images/bob/2022-05/musk.jpg)
+![Musk](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-05/musk.jpg)
 
 
 ## #1
-![Ehre](/assets/images/bob/2022-05/ehre.jpg)
+![Ehre](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-05/ehre.jpg)
 
 
 ## Honorable Mentions
-![Oh no](/assets/images/bob/2022-05/bibi.jpg)
-![Adler](/assets/images/bob/2022-05/atilla.jpg)
+![Oh no](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-05/bibi.jpg)
+![Adler](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-05/atilla.jpg)
 
 
 ### Kegelbrüder Special
-![Brüder 1](/assets/images/bob/2022-05/kegelbrothers_1.jpg)
-![Brüder 2](/assets/images/bob/2022-05/kegelbrothers_2.jpg)
-![Brüder 3](/assets/images/bob/2022-05/kegelbrothers_3.jpg)
+![Brüder 1](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-05/kegelbrothers_1.jpg)
+![Brüder 2](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-05/kegelbrothers_2.jpg)
+![Brüder 3](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-05/kegelbrothers_3.jpg)
 
