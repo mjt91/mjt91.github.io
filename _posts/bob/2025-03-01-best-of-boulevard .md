@@ -16,14 +16,14 @@ Manchmal reicht auch schon das Grafikdesign um sich in dieser Liste zu verewigen
 
 
 ## #3
-![](/assets/images/bob/2025-02/honig.PNG)
+![](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2025-02/honig.PNG)
 
 ## #2
-![](/assets/images/bob/2025-02/schuhe.JPG)
+![](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2025-02/schuhe.JPG)
 
 ## #1
-![](/assets/images/bob/2025-02/radweg.PNG)
+![](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2025-02/radweg.PNG)
 
 
 ## Honorable Mentions
-![](/assets/images/bob/2025-02/eklat.JPG)
+![](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2025-02/eklat.JPG)

@@ -16,27 +16,27 @@ Manchmal reicht auch schon das Grafikdesign um sich in dieser Liste zu verewigen
 
 
 ## #3
-![Lauterbach](/assets/images/bob/2022-04/lauterbach.jpg)
+![Lauterbach](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-04/lauterbach.jpg)
 
 
 ## #2
-![Prinz](/assets/images/bob/2022-04/krone.jpg)
+![Prinz](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-04/krone.jpg)
 
 
 ## #1
-![Imbiss](/assets/images/bob/2022-04/doner.jpg)
+![Imbiss](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-04/doner.jpg)
 
 
 ## Honorable Mentions
-![Ectasy 4](/assets/images/bob/2022-04/murray.jpg)
-![Ectasy 4](/assets/images/bob/2022-04/netflix.jpg)
-![Hansi](/assets/images/bob/2022-04/pott.jpg)
-![Fury](/assets/images/bob/2022-04/fury.jpg)
-![Madonna](/assets/images/bob/2022-04/skandal.jpg)
-![Kokain 1](/assets/images/bob/2022-04/stalin.jpg)
+![Ectasy 4](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-04/murray.jpg)
+![Ectasy 4](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-04/netflix.jpg)
+![Hansi](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-04/pott.jpg)
+![Fury](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-04/fury.jpg)
+![Madonna](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-04/skandal.jpg)
+![Kokain 1](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-04/stalin.jpg)
 
 
 ### Boris Special
-![Boris 1](/assets/images/bob/2022-04/boris1.jpg)
-![Boris 2](/assets/images/bob/2022-04/boris2.jpg)
+![Boris 1](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-04/boris1.jpg)
+![Boris 2](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-04/boris2.jpg)
 

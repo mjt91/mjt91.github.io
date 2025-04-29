@@ -16,18 +16,18 @@ Manchmal reicht auch schon das Grafikdesign um sich in dieser Liste zu verewigen
 
 
 ## #3
-![de Bräune](/assets/images/bob/2024-07/weiss.JPEG)
+![de Bräune](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2024-07/weiss.JPEG)
 
 
 ## #2
-![Biden](/assets/images/bob/2024-07/bett.PNG)
+![Biden](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2024-07/bett.PNG)
 
 
 ## #1
-![Spanier](/assets/images/bob/2024-07/doner.JPEG)
+![Spanier](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2024-07/doner.JPEG)
 
 
 ## Honorable Mentions
-![bier](/assets/images/bob/2024-07/karte.PNG)
-![shakira](/assets/images/bob/2024-07/klima-shakira.jfif)
+![bier](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2024-07/karte.PNG)
+![shakira](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2024-07/klima-shakira.jfif)
 

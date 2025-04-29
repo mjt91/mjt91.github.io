@@ -16,14 +16,14 @@ Manchmal reicht auch schon das Grafikdesign um sich in dieser Liste zu verewigen
 
 
 ## #3
-![](/assets/images/bob/2024-11/pumpe.JPEG)
+![](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2024-11/pumpe.JPEG)
 
 ## #2
-![](/assets/images/bob/2024-11/chicken-dinnger.PNG)
+![](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2024-11/chicken-dinnger.PNG)
 
 ## #1
-![](/assets/images/bob/2024-11/bohlen2.JPEG)
+![](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2024-11/bohlen2.JPEG)
 
 
 ## Honorable Mentions
-![](/assets/images/bob/2024-11/goodbyeden.PNG)
+![](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2024-11/goodbyeden.PNG)

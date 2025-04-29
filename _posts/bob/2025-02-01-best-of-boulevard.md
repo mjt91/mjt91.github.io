@@ -16,15 +16,15 @@ Manchmal reicht auch schon das Grafikdesign um sich in dieser Liste zu verewigen
 
 
 ## #3
-![](/assets/images/bob/2025-01/bauchstraffung.JPEG)
+![](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2025-01/bauchstraffung.JPEG)
 
 ## #2
-![](/assets/images/bob/2025-01/pizza-40.PNG)
+![](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2025-01/pizza-40.PNG)
 
 ## #1
-![](/assets/images/bob/2025-01/karius3.JPG)
+![](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2025-01/karius3.JPG)
 
 
 ## Honorable Mentions
-![](/assets/images/bob/2025-01/dresden1.JPG)
-![](/assets/images/bob/2025-01/experte.JPG)
+![](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2025-01/dresden1.JPG)
+![](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2025-01/experte.JPG)

@@ -16,26 +16,26 @@ Manchmal reicht auch schon das Grafikdesign um sich in dieser Liste zu verewigen
 
 
 ## #3
-![Ferres](/assets/images/bob/2022-03/veronika.PNG)
+![Ferres](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-03/veronika.PNG)
 
 
 ## #2
-![Abbruch](/assets/images/bob/2022-03/zahn.PNG)
+![Abbruch](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-03/zahn.PNG)
 
 
 ## #1
-![Bio](/assets/images/bob/2022-03/klo.PNG)
+![Bio](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-03/klo.PNG)
 
 
 ## Honorable Mentions
-![Ectasy 4](/assets/images/bob/2022-03/schampus4.PNG)
-![Hansi](/assets/images/bob/2022-03/hansi.PNG)
-![Madonna](/assets/images/bob/2022-03/madonna.PNG)
-![Kokain 1](/assets/images/bob/2022-03/koks1.PNG)
-![Kokain 2](/assets/images/bob/2022-03/koks2.PNG)
+![Ectasy 4](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-03/schampus4.PNG)
+![Hansi](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-03/hansi.PNG)
+![Madonna](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-03/madonna.PNG)
+![Kokain 1](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-03/koks1.PNG)
+![Kokain 2](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-03/koks2.PNG)
 
 
 ### Putin Special
-![Putin 1](/assets/images/bob/2022-03/putin1.PNG)
-![Putin 2](/assets/images/bob/2022-03/putin2.PNG)
-![Putin 3](/assets/images/bob/2022-03/putin3.PNG)
+![Putin 1](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-03/putin1.PNG)
+![Putin 2](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-03/putin2.PNG)
+![Putin 3](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-03/putin3.PNG)

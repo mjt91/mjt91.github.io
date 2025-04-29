@@ -16,31 +16,31 @@ Manchmal reicht auch schon das Grafikdesign um sich in dieser Liste zu verewigen
 
 
 ## #3
-![Leerhansa](/assets/images/bob/2022-07/leer.jpg)
+![Leerhansa](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-07/leer.jpg)
 
 
 ## #2
-![Italien](/assets/images/bob/2022-07/mordzarella.jpg)
+![Italien](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-07/mordzarella.jpg)
 
 
 ## #1
-![Poppen](/assets/images/bob/2022-07/football.jpg)
+![Poppen](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-07/football.jpg)
 
 
 ## Kegelbrüder Follow-Up
-![Kegeln 3](/assets/images/bob/2022-07/kegel1.jpg)
-![Kegeln 3](/assets/images/bob/2022-07/kegel2.jpg)
-![Kegeln 3](/assets/images/bob/2022-07/kegel3a.jpg)
-![Kegeln 3](/assets/images/bob/2022-07/kegel3.jpg)
+![Kegeln 3](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-07/kegel1.jpg)
+![Kegeln 3](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-07/kegel2.jpg)
+![Kegeln 3](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-07/kegel3a.jpg)
+![Kegeln 3](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-07/kegel3.jpg)
 
 
 ## Honorable Mentions
-![Alter Mann](/assets/images/bob/2022-07/gerd.jpg)
+![Alter Mann](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-07/gerd.jpg)
 
 
 ## Sommerloch
-![Sommer 1](/assets/images/bob/2022-07/heat1a.jpg)
-![Sommer 2](/assets/images/bob/2022-07/heat1.jpg)
-![Sommer 3](/assets/images/bob/2022-07/heat2.jpg)
-![Sommer 3](/assets/images/bob/2022-07/heat3.jpg)
-![Sommer 3](/assets/images/bob/2022-07/heat4.jpg)
+![Sommer 1](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-07/heat1a.jpg)
+![Sommer 2](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-07/heat1.jpg)
+![Sommer 3](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-07/heat2.jpg)
+![Sommer 3](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-07/heat3.jpg)
+![Sommer 3](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-07/heat4.jpg)

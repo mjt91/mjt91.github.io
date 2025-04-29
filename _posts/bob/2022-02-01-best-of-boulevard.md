@@ -16,18 +16,18 @@ Manchmal reicht auch schon das Grafikdesign um sich in dieser Liste zu verewigen
 
 
 ## #3
-![Djokovic](/assets/images/bob/2022-01/djokovic.jpg)
+![Djokovic](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-01/djokovic.jpg)
 
 ## #2
-![Hoeness](/assets/images/bob/2022-01/hoeness.jpg)
+![Hoeness](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-01/hoeness.jpg)
 
 ## #1
-![Namibia](/assets/images/bob/2022-01/namibia.jpg)
+![Namibia](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-01/namibia.jpg)
 
 
 ## Honorable Mentions
 
-![Danes](/assets/images/bob/2022-01/danes.jpg)
-![Rihanna](/assets/images/bob/2022-01/rihanna.jpg)
-![Wieler](/assets/images/bob/2022-01/wieler.jpg)
-![Beton](/assets/images/bob/2022-01/beton.jpg)
+![Danes](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-01/danes.jpg)
+![Rihanna](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-01/rihanna.jpg)
+![Wieler](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-01/wieler.jpg)
+![Beton](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-01/beton.jpg)

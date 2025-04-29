@@ -16,12 +16,12 @@ Manchmal reicht auch schon das Grafikdesign um sich in dieser Liste zu verewigen
 
 
 ## #3
-![gips](/assets/images/bob/2024-08/gips.JPEG)
+![gips](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2024-08/gips.JPEG)
 
 
 ## #2
-![vwut](/assets/images/bob/2024-08/vwut.JPEG)
+![vwut](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2024-08/vwut.JPEG)
 
 
 ## #1
-![auto](/assets/images/bob/2024-08/auto.JPEG)
+![auto](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2024-08/auto.JPEG)

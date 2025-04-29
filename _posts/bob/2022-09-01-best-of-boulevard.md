@@ -16,22 +16,22 @@ Manchmal reicht auch schon das Grafikdesign um sich in dieser Liste zu verewigen
 
 
 ## #3
-![Fragezeichen](/assets/images/bob/2022-08/threequestionmarks.JPG)
+![Fragezeichen](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-08/threequestionmarks.JPG)
 
 
 ## #2
-![Panzler](/assets/images/bob/2022-08/panzler.jpg)
+![Panzler](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-08/panzler.jpg)
 
 
 ## #1
-![DSDS](/assets/images/bob/2022-08/pinkel.jpg)
+![DSDS](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-08/pinkel.jpg)
 
 
 ## Honorable Mentions
-![Hose](/assets/images/bob/2022-08/hose.jpg)
-![Gerhard](/assets/images/bob/2022-08/gerd2.jpg)
-![Schule](/assets/images/bob/2022-08/schule.JPG)
-![Ikea](/assets/images/bob/2022-08/ikea.jpg)
-![Gerissen](/assets/images/bob/2022-08/riss.jpg)
+![Hose](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-08/hose.jpg)
+![Gerhard](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-08/gerd2.jpg)
+![Schule](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-08/schule.JPG)
+![Ikea](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-08/ikea.jpg)
+![Gerissen](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2022-08/riss.jpg)
 
 

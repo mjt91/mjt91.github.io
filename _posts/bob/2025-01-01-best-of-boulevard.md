@@ -16,10 +16,10 @@ Manchmal reicht auch schon das Grafikdesign um sich in dieser Liste zu verewigen
 
 
 ## #3
-![](/assets/images/bob/2024-12/rad-dran.png)
+![](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2024-12/rad-dran.png)
 
 ## #2
-![](/assets/images/bob/2024-12/schmacht2.PNG)
+![](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2024-12/schmacht2.PNG)
 
 ## #1
-![](/assets/images/bob/2024-12/geld-trinken.PNG)
+![](https://mjt91-blog-images.s3.eu-north-1.amazonaws.com/bob/2024-12/geld-trinken.PNG)
