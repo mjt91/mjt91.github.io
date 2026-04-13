@@ -7,25 +7,29 @@ tags:
 excerpt: I love Saturdays nowadays...
 ---
 
-
-
 I am a passionate eater. I love it salty.
 I love the good stuff, the fatty stuff (think: McDonalds, ...).
 And yes, I know it is bad for me. Come on, judge me. I can take it. It is okay.
 
 ![judge-me](https://media1.tenor.com/m/80msv-KR_X0AAAAd/i-can-feel-you-judging-me-jared-vennett.gif)
 
-But, I am currently on the [Slow Carb diet][slow-carb}, which works great for me.
+But, I am currently on the [Slow Carb diet](https://en.wikipedia.org/wiki/The_4-Hour_Body), which works great for me.
 I like that it is simple to follow, with well-adjusted rules and the idea to allow for cheat days.
 And oh lord is this a rabbit hole to jump into. I had no idea.
-There are stories of some epic cheat days out there. **TODO add source.**
+There are stories of [some](https://www.mariomazzamuto.com/blog/healthy-eating-epic-cheat-days) [epic](https://www.youtube.com/EpicCheatMeal/videos) [cheat](https://www.youtube.com/shorts/nFJ_fAKWB2o) [days](https://www.youtube.com/watch?v=hmDT042Zplc) out there.
 
 Once I discovered this, I thought "thank you for the inspiration!".
 When I feel a craving in the middle to end of the work week, seeing cheat day is coming near I always write down the thing I have a craving for in a little note on my phone.
 And when Saturday arrives I am as happy as a young boy on Christmas.
 
 ## Slow Carb Rundown
+The slow carb diet made popular by Tim Ferriss, which propose simple rules that are hard to mess up.
+The idea being eating high volume food with low categories (spioler: high & good protein sources help a lot here). It also focusses on controlling blood sugar spikes. Here are the rules:
 
+- **Avoid white carbs**: That means no bread, pasta, rice, potatoes or anything refined. This means legumes (beans, lentils) are your friend for carbs
+- **Same meals on a rotation**: Varities in your meals comes from swapping proteins and veggies. Sounds boring at first, but think of it: Your diet now also has the same meals but you do not think about it (for most people their breakfast is the same)
+- **No fruit:** Tomatoes and avocados are okay, berries in moderation (if not sure it is a clear NO). There is a debate about fruit and I get tired to justify for it, but I believe humans do not need any tropical foods to survive
+- **Have one Cheat Day per Week:** Go wild here, it really helps psychologically, too. If you think you cannot survive without some fruits, this is your way out :smile:
 
 ## Breakfast
 My mornings are very plain (read: simple) under the Slow Carb diet: 3 eggs, spinach, some beans or lentils.
@@ -65,6 +69,3 @@ Any variation of french cheeses are fine too. And as mentioed: At the end a [nic
 
 ## Bonus: Calories (estimated)
 Let's better not talk about it.
-
-
-[slow-carb]: https://en.wikipedia.org/wiki/The_4-Hour_Body
