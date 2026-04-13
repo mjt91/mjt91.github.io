@@ -26,6 +26,12 @@ https://www.youtube.com/watch?v=yfFARCwwKtQ
 - use cases?
 - backups
 
+### Agent Mail (funny story)
+- I set up agentmail.to
+- Told my wife to send an email requesting a kiss from me
+- First propmpt: Just check exit silenty
+- Refined: Try to solve something that's popping up
+- He answered her lmao
 
 ## What is Hype and what is real?
 - tbd.
