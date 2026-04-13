@@ -24,10 +24,10 @@ And when Saturday arrives I am as happy as a young boy on Christmas.
 
 ## Slow Carb Rundown
 The slow carb diet made popular by Tim Ferriss, which propose simple rules that are hard to mess up.
-The idea being eating high volume food with low categories (spioler: high & good protein sources help a lot here). It also focusses on controlling blood sugar spikes (Insulin). Here are the rules:
+The idea being eating high volume food with low categories (spoiler: high & good protein sources help a lot here). It also focusses on controlling blood sugar spikes (Insulin). Here are the rules:
 
 - **Avoid white carbs**: That means no bread, pasta, rice, potatoes or anything refined. This means legumes (beans, lentils) are your friend for carbs
-- **Same meals on a rotation**: Varities in your meals comes from swapping proteins and veggies. Sounds boring at first, but think of it: Your diet now also has the same meals but you do not think about it (for most people their breakfast is the same)
+- **Same meals on a rotation**: Varieties in your meals comes from swapping proteins and veggies. Sounds boring at first, but think of it: Your diet now also has the same meals but you do not think about it (for most people their breakfast is the same)
 - **No fruit:** Tomatoes and avocados are okay, berries in moderation (if not sure it is a clear NO). There is a debate about fruit and I get tired to justify for it, but I believe humans do not need any tropical foods to survive
 - **Have one Cheat Day per Week:** Go wild here, it really helps psychologically, too. If you think you cannot survive without some fruits, this is your way out :smile:
 
@@ -35,25 +35,25 @@ The idea being eating high volume food with low categories (spioler: high & good
 My mornings are very plain (read: simple) under the Slow Carb diet: 3 eggs, spinach, some beans or lentils.
 When I am not following the Slow Carb diet I am skipping breakfast.
 
-Those are the cases which are not intersting for the sake of this post. Let's see what makes a great breakfast on cheat days.
+Those are the cases which are not interesting for the sake of this post. Let's see what makes a great breakfast on cheat days.
 There are two modes that work for me:
 1. Sweet and warm (no ice cream allowed here)
 
-My new favourite for sweet and warm breackfast is **Kaiserschmarrn**:
+My new favourite for sweet and warm breakfast is **Kaiserschmarrn**:
 
 ![](https://img.chefkoch-cdn.de/rezepte/1031841208350942/bilder/1537796/crop-960x540/kaiserschmarrn-tiroler-landgasthofrezept.jpg)
 
-It is easy to make and blast to eat.
+It is easy to make and blasts to eat.
 
-Honerable mensions: crepês, some variation of pancakes and overnight oats.
+Honorable mensions: crepês, some variation of pancakes and overnight oats.
 
-2. Bread (I prefer wheat) with cold cuts (savory) and end with something sweet (mostly a crossaint with some red fruit jam)
+2. Bread (I prefer wheat) with cold cuts (savory) and end with something sweet (mostly a croissant with some red fruit jam)
 
 When having bread for breakfast it must have this badboy on there:
 
 ![](https://imgsrv1.shotshop.com/preview_new/2006_12/00000628_00000376-Wurst-Br%C3%B6tchen-Belegtes+Br%C3%B6tchen-Wurstsemmel.jpg)
 
-Any variation of french cheeses are fine too. And as mentioed: At the end a [nice croissaint](https://guide.michelin.com/en/article/features/decoding-the-delicious-croissant).
+Any variation of french cheeses are fine too. And as mentioned: At the end a [nice croissaint](https://guide.michelin.com/en/article/features/decoding-the-delicious-croissant).
 
 ## Lunch
 
