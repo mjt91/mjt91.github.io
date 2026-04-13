@@ -24,7 +24,7 @@ And when Saturday arrives I am as happy as a young boy on Christmas.
 
 ## Slow Carb Rundown
 The slow carb diet made popular by Tim Ferriss, which propose simple rules that are hard to mess up.
-The idea being eating high volume food with low categories (spioler: high & good protein sources help a lot here). It also focusses on controlling blood sugar spikes. Here are the rules:
+The idea being eating high volume food with low categories (spioler: high & good protein sources help a lot here). It also focusses on controlling blood sugar spikes (Insulin). Here are the rules:
 
 - **Avoid white carbs**: That means no bread, pasta, rice, potatoes or anything refined. This means legumes (beans, lentils) are your friend for carbs
 - **Same meals on a rotation**: Varities in your meals comes from swapping proteins and veggies. Sounds boring at first, but think of it: Your diet now also has the same meals but you do not think about it (for most people their breakfast is the same)
