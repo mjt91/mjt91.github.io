@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=yfFARCwwKtQ
 
 
 ## Setup Overview
-- Setup on Hostinger (add link)
+- Setup on Hostinger (add link) in docker
 - Models kimi2.5k / minimax using ollama cloud models
 - which channels? telegram / whatsapp todo
 - skills? Example: raindrop.io / financial report
@@ -35,3 +35,19 @@ https://www.youtube.com/watch?v=yfFARCwwKtQ
 
 ## What is Hype and what is real?
 - tbd.
+
+## Useful Tips
+- Use Telegram first, WhatsApp later
+- Start simple (morning briefing)
+- Use telegram topcis in groups
+- If something fails backup identity and install docker anew
+
+### Is OpenClaw for me?
+TODO show flowchart
+
+## OpenClaw vs Hermes
+?
+
+
+
+
