@@ -11,11 +11,11 @@ excerpt: What's the hype about?
 # Drafting my Experience one month using openclaw
 
 
-
 ## Videos I learned a lot from
-https://www.youtube.com/watch?v=XmSxfFrkcDs
-https://www.youtube.com/watch?v=aCG3dFRF3ek
-https://www.youtube.com/watch?v=yfFARCwwKtQ
+- https://www.youtube.com/watch?v=XmSxfFrkcDs
+- https://www.youtube.com/watch?v=aCG3dFRF3ek
+- https://www.youtube.com/watch?v=yfFARCwwKtQ
+- https://www.youtube.com/watch?v=gZ6Ay-ow0BQ
 
 
 ## Setup Overview
