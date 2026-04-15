@@ -16,6 +16,7 @@ excerpt: What's the hype about?
 - https://www.youtube.com/watch?v=aCG3dFRF3ek
 - https://www.youtube.com/watch?v=yfFARCwwKtQ
 - https://www.youtube.com/watch?v=gZ6Ay-ow0BQ
+- https://www.youtube.com/watch?v=CEvIs9y1uog
 
 
 ## Setup Overview
