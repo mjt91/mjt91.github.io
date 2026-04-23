@@ -45,6 +45,7 @@ excerpt: What's the hype about?
 
 ### Is OpenClaw for me?
 TODO show flowchart
+<img width="1753" height="976" alt="image" src="https://github.com/user-attachments/assets/cd4e78e6-8013-45a9-a5a3-f2c2b0b904d3" />
 
 ## OpenClaw vs Hermes
 ?
