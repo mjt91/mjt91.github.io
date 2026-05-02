@@ -99,7 +99,7 @@ I am a big fan of memes. Here are my top 3:
 
 ### 1. Anthony Bourdain — Pure French Vibes
 
-I have no idea why, but this image of Anthony Bourdain sitting at a Paris cafe, sunglasses on, baguette and cigarettes on the table, just hits. It captures a mood I aspire to. The effortless cool, the indulgence, the *je ne sais quoi*. Every time I see it, I want to book a flight to Paris and do absolutely nothing for three days.
+This image went viral in 2025 as the face of European work ethic memes. The best one: Trump attacks the Middle East, European leaders respond with "we'll sit together after the weekend." Another classic: "when you try to reach an average European at 2pm on a Friday." The effortless indifference, the café culture, the *je ne sais quoi* of not giving a shit — that's the energy.
 
 ![bourdain-meme](/assets/images/meme-bourdain-2025.jpg)
 
