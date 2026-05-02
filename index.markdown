@@ -6,9 +6,9 @@ layout: home
 title: Welcome
 ---
 
-I currently work in Finance where I manily build forecasting 
+I currently work in Finance where I mainly build forecasting 
 systems using statistical methods or machine learning. 
-Occasionally I use spredsheets. 
+Occasionally I use spreadsheets. 
 On here I will write about anything that comes to my mind. 
 I will try to focus on data science, python, time series & forecasting.
 
