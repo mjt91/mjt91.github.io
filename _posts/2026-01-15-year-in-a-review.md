@@ -107,6 +107,8 @@ This image went viral in 2025 as the face of European work ethic memes. The best
 
 The perfect encapsulation of where AI was in 2025. We went from "AI will help me think" to "AI please just think for me, I am tired." Relatable.
 
+![grok-think-for-me](/assets/images/meme-grok-2025.jpg)
+
 ### 3. Dust2 Wake Up Meme
 
 Counter-Strike shaped me. Seeing the old Dust2 with a "wake up" vibe was a gut punch of nostalgia. The 4chan / gaming era energy — unapologetic, raw, and somehow still relevant.
