@@ -109,6 +109,8 @@ The perfect encapsulation of where AI was in 2025. We went from "AI will help me
 
 ![grok-think-for-me](/assets/images/meme-grok-2025.jpg)
 
-### 3. Dust2 Wake Up Meme
+### 3. "Bruh Where TF Did I End Up Last Night"
 
-Counter-Strike shaped me. Seeing the old Dust2 with a "wake up" vibe was a gut punch of nostalgia. The 4chan / gaming era energy — unapologetic, raw, and somehow still relevant.
+The blurry street, the disorientation, the existential confusion — this was my brain after every all-day agent-coding session in 2025. You blink, it's 2 AM, and you have no idea how you got there. Relatable energy.
+
+![bruh-meme](/assets/images/meme-bruh-2025.jpg)
