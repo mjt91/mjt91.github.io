@@ -1,0 +1,88 @@
+---
+title: Which Skills Are Eternal in the Age of AI?
+categories:
+  - blog
+tags:
+  - career
+  - ai
+  - skills
+  - books
+excerpt: A friend asked me this question. I couldn't shake it. So I went looking.
+---
+
+*A friend asked me this question. I couldn't shake it. So I went looking.*
+
+## The question that started this
+
+A friend asked me a question I couldn't shake: *which skills are still worth investing in, now that AI is eating everything else?*
+
+The week before, I'd been listening to Tim Ferriss's recent Q&A episode (#859, March 2026 — "The Upcoming AI Tsunami"). Someone named Hugo had asked him a version of exactly this question: "In a world full of tools, systems, and AI, what human abilities or habits are becoming more valuable, not less?"
+
+Ferriss's answer, in his own words: *the relational, the tactile, anything IRL, and offline informational advantage*. Not "prompt engineering." Not "AI literacy." Not the stuff LinkedIn keeps telling me to learn. **Relational. Tactile. In real life.**
+
+Then I caught a panel discussion — it was making the rounds as "only 2 jobs left in the AI economy," though the punchline is really closer to four. The panel's claim: when the dust settles, almost everyone is going to be doing one of a small number of things. **AI engineers** (the people who build the systems). **People managers** (the "grown-ups," in the panel's words, who turn groups of humans into teams). **Infrastructure engineers** (the people who keep the lights on). And a fourth category the panel couldn't quite agree on — possibly healthcare, possibly energy, possibly policy. The point was: most jobs don't survive the transition. **You either build the tools, manage the humans who use them, or keep the underlying systems running.**
+
+Two pieces of input. Same shape. Both said: most of what we spend our time learning is going to be obsolete. A handful of things won't be. The question is *which handful*.
+
+Here's my answer.
+
+## The six eternal skills
+
+Not six because six is a tidy number. Six because, after a few weeks of thinking about it, I kept coming back to these.
+
+**1. Negotiating.** Most decisions get made under scarcity: time, money, attention, status, safety. AI removes information asymmetry — you can walk into a salary negotiation knowing the band, the comp ratios, the percentile you sit at. What it doesn't remove is **power asymmetry**. Two humans across a table, with different interests, trying to find a number that lets both walk away intact. That is still a human skill.
+
+**2. Learning how to learn.** The half-life of any specific skill is shrinking. Three years ago, "knowing SQL" was a career. Today, knowing SQL is a checkbox on a job description that an LLM can produce in five seconds. The meta-skill — being able to **deconstruct an unfamiliar domain, find the load-bearing concepts, and build competency fast** — is what compounds. The skill is the skill of acquiring skills.
+
+**3. Written communication.** Tim, in an earlier Q&A, was asked what skill he'd teach kids if he could teach them only one. His answer: *writing and clear written communication*. This is not a sentimental answer. Writing well is the clearest signal of clarity of thought. If you can write a paragraph that makes someone understand something they didn't before, you can think.
+
+**4. Verbal communication — specifically, asking questions.** AI can answer questions. What it cannot do, at least not yet and not well, is ask **the right** question at **the right** moment. The skill of reading a room, hearing what's not being said, and surfacing the question that reframes the conversation — that's still human work. The best managers, the best salespeople, the best doctors all do this.
+
+**5. IRL presence / relational skills.** Trust is built across shared time, shared place, shared meals, shared risk. It's hard to overstate what LLMs cannot do here. They can simulate warmth. They cannot generate it. The person who can walk into a room and make the people in it feel seen — that person has a durable advantage.
+
+**6. Offline informational advantage.** Ferriss made this point and I think it's the most under-appreciated: LLMs slice and dice the public internet. **Anything that is not on the public internet is now more valuable than it was five years ago.** Your relationships. Your lived experience. Your niche expertise that lives in three Slack groups and a guy you went to college with. That's your edge. It doesn't compound on a server. It compounds in your life.
+
+## The shelf: six books, not sixty
+
+I don't believe in reading lists. I believe in book shelves. Here's the six I'd put on the shelf if the question were "which six books cover the eternal skills."
+
+**Chris Voss — *Never Split the Difference* (2016).** Former FBI lead international kidnapping negotiator. The title is literal: he spent 24 years negotiating hostage lives. The book translates that into business and life, and the translation is shockingly clean. Three tools to take from it: **tactical empathy** (understanding the other side's feelings and motivations, and demonstrating that understanding), **calibrated questions** (*"What is about this that is important to you?"* — questions that cannot be answered with "yes" or "no"), and **the late-night DJ voice** (downward, slow, calm; the opposite of how most people sound when they're nervous). If you read one book on negotiation this year, read this one.
+
+**Tim Ferriss — *The 4-Hour Chef* (2012).** Most people skip this because of the title and the food-porn cover. That's a mistake. *The 4-Hour Chef* is, beneath the surface, a book about **meta-learning** — how to deconstruct any skill, find the 20% that produces 80% of the results, and build competency fast. Ferriss calls it the "deconstructionist" approach. The cooking is the example; the method is the point.
+
+**William Zinsser — *On Writing Well* (1976, many revisions).** The classic. Stands up because it teaches you to **think before you write**, which is the skill AI cannot outsource. Anyone can prompt an LLM to produce a paragraph. Almost no one can sit down and write a paragraph that says what they mean.
+
+**Frank Sesno — *Ask More* (2017).** Frames questions as leadership tools. Six question types — clarifying, expansive, bridging, confrontational, inviting, framing — and when to deploy each. If you've ever sat in a meeting and felt like the conversation was going sideways and you didn't know why, this book is for you.
+
+**Kevin Kelly — "1,000 True Fans" (2008, free online).** The piece Tim mentioned in episode #859. The math is simple: you don't need millions of customers if you have 1,000 real fans. Read it in fifteen minutes. It will reshape how you think about "scale."
+
+**Robert Cialdini — *Influence* (1984, revised 2007).** The grandfather book on why people say yes. Six principles: reciprocity, commitment and consistency, social proof, liking, authority, scarcity. Read it for the same reason you read Voss — because most of the time, someone is trying to change your mind, and you'd like to know how.
+
+## How AI actually helps you get better at these
+
+Here's the non-obvious part. AI doesn't just substitute for the eternal skills. Used well, it makes you **better** at them.
+
+| Skill | How to use AI as a practice partner |
+|---|---|
+| **Negotiating** | Role-play difficult conversations with the AI playing the other side. Then have it critique your tone, your labels, your calibrated questions. Transcribe the conversation afterward and ask the AI to score you on Voss's framework. |
+| **Learning how to learn** | Use the AI to generate practice problems, spaced-repetition flashcards, and to identify your knowledge gaps. Have it quiz you hard, not easy. |
+| **Written communication** | Draft your piece first. Then ask the AI to play a strict editor — Tim's trick is to give it a persona: *"You are an editor from The New Yorker. Here is a draft. Give me feedback."* The hard rule Tim sets for himself, and the one I think is right: **do not let the AI rewrite your draft**. Only feedback. The moment you accept its rewrite, you've outsourced the cognitive work that is the entire point of writing. |
+| **Verbal communication** | Rehearse hard conversations with the AI. Then ask it to push back on your questions, find your unstated assumptions, identify where you were unclear. |
+| **IRL presence** | AI cannot help you here directly. But it can help you **prepare** — research who you'll meet, what they care about, what questions to ask. |
+| **Offline informational advantage** | Use AI to do the synthesis of public information, so you can spend your time on the **private** part — the relationships, the conversations, the things only you have access to. |
+
+The principle: **AI is a sparring partner, not a substitute.** Use it to expose your weak points. Don't use it to replace the moves.
+
+## The closing frame
+
+The eternal skills are the ones that require **another human** to be in the room, in the deal, or in the relationship.
+
+AI optimizes for the codifiable. It will keep getting better at everything that can be turned into a prompt. The eternal skills are the ones that resist codification — because they're about reading the person across the table, building trust over time, asking the question nobody else thought to ask, knowing when to push and when to back off.
+
+That's not a comforting answer. But it's a useful one.
+
+Start with one skill. Read one book. Practice with the AI on the side. Then go have the conversation that only you can have.
+
+---
+
+*Sources: Tim Ferriss, "Q&A with Tim — The Upcoming AI Tsunami," The Tim Ferriss Show #859, 26 March 2026 (tim.blog). Chris Voss with Tahl Raz, Never Split the Difference: Negotiating As If Your Life Depended On It (HarperBusiness, 2016). "Only 2 jobs left in the AI economy" panel discussion, July 2026. William Zinsser, On Writing Well. Frank Sesno, Ask More. Kevin Kelly, "1,000 True Fans," The Technium, 2008. Robert Cialdini, Influence.*
