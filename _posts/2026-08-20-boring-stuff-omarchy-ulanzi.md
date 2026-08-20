@@ -1,5 +1,5 @@
 ---
-title: Automate the Boring Stuff — AWTRIX 3 and my Ulanzi Smart Pixel Clock
+title: Automate the Boring Stuff — Flashing my Ulanzi Smart Pixel Clock
 categories:
   - blog
 tags:
@@ -19,7 +19,5 @@ Then it hit me like a truck: Just use AI. I was spinning up Claude, told it what
 And now comes the funny part. I asked Claude to help me understand the API and I said it should add a Hello World app. It did give it a go on its own and added this very funny hello from Claude — running word, wall of text:
 
 ![AWTRIX 3 Hello World from Claude](/assets/images/awtrix.gif)
-
-<!-- TODO: Drop the actual GIF at /assets/images/awtrix.gif before merging this PR. -->
 
 What I learned from this? I think I may be a bit late to the party — Andrej Karpathy was posting about this on X when he started to play around with [OpenClaw](https://openclaw.ai/). I'm not using OpenClaw but just Claude, but in any case, this is what's the real beauty about using AI tools. They are very good at working out how APIs work, digging down deep into some docs, searching online how things work, and working it out for you. You just need to tell them what you really want them to do. And I think this is beautiful.
