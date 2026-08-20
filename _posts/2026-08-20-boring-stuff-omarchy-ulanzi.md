@@ -16,7 +16,7 @@ Unfortunately, this did not really work for me. The flasher stopped working, the
 
 Then it hit me like a truck: Just use AI. I was spinning up Claude, told it what I was trying to do and it worked out all the bits itself (it even created a backup from the initial system lol). A few minutes later I heard a beep sound, the clock restarted and the beautiful AWTRIX 3 screen was greeting me.
 
-And now comes the funny part. I asked Claude to help me understand the API and I said it should add a Hello World app. It did give it a go on its own and added this very funny hello from Claude — running word, wall of text:
+And now comes the funny part. I asked Claude to help me understand the API and I said it should add a Hello World app. It did give it a go on its own and added this very funny "hello from Claude" running text wall:
 
 ![AWTRIX 3 Hello World from Claude](/assets/images/awtrix.gif)
 
