@@ -1,0 +1,55 @@
+---
+title: One Month with OpenClaw
+categories:
+  - blog
+tags:
+  - life
+  - career
+excerpt: What's the hype about?
+---
+
+# Drafting my Experience one month using openclaw
+
+
+## Videos I learned a lot from
+- https://www.youtube.com/watch?v=XmSxfFrkcDs
+- https://www.youtube.com/watch?v=aCG3dFRF3ek
+- https://www.youtube.com/watch?v=yfFARCwwKtQ
+- https://www.youtube.com/watch?v=gZ6Ay-ow0BQ
+- https://www.youtube.com/watch?v=CEvIs9y1uog
+
+
+## Setup Overview
+- Setup on Hostinger (add link) in docker
+- Models kimi2.5k / minimax using ollama cloud models
+- which channels? telegram / whatsapp todo
+- skills? Example: raindrop.io / financial report
+- use cases?
+- backups
+
+### Agent Mail (funny story)
+- I set up agentmail.to
+- Told my wife to send an email requesting a kiss from me
+- First propmpt: Just check exit silenty
+- Refined: Try to solve something that's popping up
+- He answered her lmao
+
+## What is Hype and what is real?
+- tbd.
+
+## Useful Tips
+- Use Telegram first, WhatsApp later
+- Start simple (morning briefing)
+- Use telegram topcis in groups
+- If something fails backup identity and install docker anew
+
+### Is OpenClaw for me?
+TODO show flowchart
+<img width="1753" height="976" alt="image" src="https://github.com/user-attachments/assets/cd4e78e6-8013-45a9-a5a3-f2c2b0b904d3" />
+
+## OpenClaw vs Hermes
+?
+
+
+
+
