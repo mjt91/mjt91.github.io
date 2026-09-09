@@ -10,15 +10,33 @@ tags:
 excerpt: A friend asked me this question. I couldn't shake it. So I went looking.
 ---
 
-*A friend asked me this question. I couldn't shake it. So I went looking.*
-
 ## The question that started this
 
-A friend asked me a question I couldn't shake: *which skills are still worth investing in, now that AI is eating everything else?*
 
-The week before, I'd been listening to Tim Ferriss's recent Q&A episode (#859, March 2026 — "The Upcoming AI Tsunami"). Someone named Hugo had asked him a version of exactly this question: "In a world full of tools, systems, and AI, what human abilities or habits are becoming more valuable, not less?"
+I am generally an AI positive person. I have written about my AI usage here, here and here. TODO add links. I have been using AI, AI tools, harnesses, and burn through more tokens than all my friends combined. Yet, I can understand when people are freightend what will happen to their jobs or what they should tell their children which path to take in life.
+
+A good (freightened) friend asked me a question I found very intersting: *which skills are still worth investing in, now that AI is eating everything else?*
+
+The week before, I'd been listening to [Ferriss's recent Q&A episode (#859, March 2026 — "The Upcoming AI Tsunami"](https://tim.blog/2026/03/26/qa-with-tim-ai-tsunami/)). Someone named Hugo had asked him a version of exactly this question: "In a world full of tools, systems, and AI, what human abilities or habits are becoming more valuable, not less?"
 
 Ferriss's answer, in his own words: *the relational, the tactile, anything IRL, and offline informational advantage*. Not "prompt engineering." Not "AI literacy." Not the stuff LinkedIn keeps telling me to learn. **Relational. Tactile. In real life.**
+
+I think this might not be an complete answer to my friends' question, but it is a good start. AI engineering changed drastically in the last six months (someone remember when they thought Prompt Engineer will be a real job LMAO) and will change again drastically in the next six. But what Tim tells us here is to look behind the curtains. Begin to think from first principles, what would we do without the machines? Without delegating everything to our favorite AI? When there is friction in thinking about how to formulate this email for a new client, how to come across as a charismatic guy, when calling the girl you like? These are activities and behaviors taken from the real life. Not from some prompt.
+
+
+### The last four Jobs in Tech (kids need to understand this)
+TODO add latent-space-last-four-jobs-tech.png
+
+
+Even though this was portraied as a joke, it is fitting to the occaison: 
+
+
+
+
+
+
+
+
 
 Then I caught a panel discussion — it was making the rounds as "only 2 jobs left in the AI economy," though the punchline is really closer to four. The panel's claim: when the dust settles, almost everyone is going to be doing one of a small number of things. **AI engineers** (the people who build the systems). **People managers** (the "grown-ups," in the panel's words, who turn groups of humans into teams). **Infrastructure engineers** (the people who keep the lights on). And a fourth category the panel couldn't quite agree on — possibly healthcare, possibly energy, possibly policy. The point was: most jobs don't survive the transition. **You either build the tools, manage the humans who use them, or keep the underlying systems running.**
 
