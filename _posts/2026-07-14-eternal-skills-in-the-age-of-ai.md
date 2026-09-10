@@ -23,24 +23,16 @@ Ferriss's answer, in his own words: *the relational, the tactile, anything IRL, 
 
 I think this might not be an complete answer to my friends' question, but it is a good start. AI engineering changed drastically in the last six months (someone remember when they thought Prompt Engineer will be a real job LMAO) and will change again drastically in the next six. But what Tim tells us here is to look behind the curtains. Begin to think from first principles, what would we do without the machines? Without delegating everything to our favorite AI? When there is friction in thinking about how to formulate this email for a new client, how to come across as a charismatic guy, when calling the girl you like? These are activities and behaviors taken from the real life. Not from some prompt.
 
+But what also comes to mind of professions who are *AI safe *are the ones Tim calls tactile: eveything that involves craftmanship: electrician, carpenter, jeweler, and more. If you believe AI is going to be the growth market of the next century to come, then the currency for AI is Watt, which makes infrastructure electricians an excellent job choice for young people. Speaking about jobs in the AI scene...
 
 ### The last four Jobs in Tech (kids need to understand this)
 TODO add latent-space-last-four-jobs-tech.png
 
+Latent.space TODO link here, posted about how the job market in tech is chaning (or is changed by the AI tsunami, again Tim Ferriss speech here): Their claim is that there are only four jobs left after the dust settles. They map it out that there are either people who deal with humans or people who deal with machines. These are either categorized as people with creativity or responsibility. They also refer to those as utility, healer, dps and tanks (World of Warcraft analogy here, one of my favourite games, I like it). Even though this was portraied as a joke, it is fitting to the occaison: Looking at the first row (dealing with humans), I see this as a good fit for (fuck it I will say it): Woman, who on average are more interested in people than things. Also the top right quadrant is a good fit for all the tech middle managers. Coming back to the World of Warcraft analogy, this fits even better, because in a Dungeon group you mostly bring one healer, sometimes one utility, one tank and multiple dps. Speaking of which, looking at the bottom row, is the fun part and the one I defaulted to when I played actively. I played tank a lot, was DPS a good fraction of my playtime as well, but never wanted to play healer, which tells me alot about my job aspirations. So naturally, the bottom row is the fun area for me. I love to build, but I see the need for the infra people. When it comes to recommendations for the juniors, I would say ask yourself what you want to do? Should your job be mainly creataive work or do you think you can take responsibility for things? Big if: If you want to work in tech that is.
 
-Even though this was portraied as a joke, it is fitting to the occaison: 
+There are many more fields and many, many more interesting opportunities. I see valuable paths in sectors like finance, consulting (maybe, but it is less), child care (can be classified as craftsmanship 😃), unfortunately policy makers are quite safe, ... TODO add more.
 
-
-
-
-
-
-
-
-
-Then I caught a panel discussion — it was making the rounds as "only 2 jobs left in the AI economy," though the punchline is really closer to four. The panel's claim: when the dust settles, almost everyone is going to be doing one of a small number of things. **AI engineers** (the people who build the systems). **People managers** (the "grown-ups," in the panel's words, who turn groups of humans into teams). **Infrastructure engineers** (the people who keep the lights on). And a fourth category the panel couldn't quite agree on — possibly healthcare, possibly energy, possibly policy. The point was: most jobs don't survive the transition. **You either build the tools, manage the humans who use them, or keep the underlying systems running.**
-
-Two pieces of input. Same shape. Both said: most of what we spend our time learning is going to be obsolete. A handful of things won't be. The question is *which handful*.
+Now the exercise is quite simple: going away from explicit jobs or job families: You need to ask yourself "What are the underlying skills, that make you the best of the best in let's say child care, or infra, or electrician?" What should you focus on, what skills to hone to get there? To be future proof? I thought about it and think many skills (you could say tasks) are going to be obsolete. A handful of things won't be. The question in *which handful.* 
 
 Here's my answer.
 
@@ -48,7 +40,9 @@ Here's my answer.
 
 Not six because six is a tidy number. Six because, after a few weeks of thinking about it, I kept coming back to these.
 
-**1. Negotiating.** Most decisions get made under scarcity: time, money, attention, status, safety. AI removes information asymmetry — you can walk into a salary negotiation knowing the band, the comp ratios, the percentile you sit at. What it doesn't remove is **power asymmetry**. Two humans across a table, with different interests, trying to find a number that lets both walk away intact. That is still a human skill.
+### **1. Negotiating
+
+Most decisions get made under scarcity: time, money, attention, status, safety. AI removes information asymmetry — you can walk into a salary negotiation knowing the band, the comp ratios, the percentile you sit at. What it doesn't remove is **power asymmetry**. Two humans across a table, with different interests, trying to find a number that lets both walk away intact. That is still a human skill.
 
 **2. Learning how to learn.** The half-life of any specific skill is shrinking. Three years ago, "knowing SQL" was a career. Today, knowing SQL is a checkbox on a job description that an LLM can produce in five seconds. The meta-skill — being able to **deconstruct an unfamiliar domain, find the load-bearing concepts, and build competency fast** — is what compounds. The skill is the skill of acquiring skills.
 
