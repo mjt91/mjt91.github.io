@@ -30,7 +30,7 @@ TODO add latent-space-last-four-jobs-tech.png
 
 Latent.space TODO link here, posted about how the job market in tech is chaning (or is changed by the AI tsunami, again Tim Ferriss speech here): Their claim is that there are only four jobs left after the dust settles. They map it out that there are either people who deal with humans or people who deal with machines. These are either categorized as people with creativity or responsibility. They also refer to those as utility, healer, dps and tanks (World of Warcraft analogy here, one of my favourite games, I like it). Even though this was portraied as a joke, it is fitting to the occaison: Looking at the first row (dealing with humans), I see this as a good fit for (fuck it I will say it): Woman, who on average are more interested in people than things. Also the top right quadrant is a good fit for all the tech middle managers. Coming back to the World of Warcraft analogy, this fits even better, because in a Dungeon group you mostly bring one healer, sometimes one utility, one tank and multiple dps. Speaking of which, looking at the bottom row, is the fun part and the one I defaulted to when I played actively. I played tank a lot, was DPS a good fraction of my playtime as well, but never wanted to play healer, which tells me alot about my job aspirations. So naturally, the bottom row is the fun area for me. I love to build, but I see the need for the infra people. When it comes to recommendations for the juniors, I would say ask yourself what you want to do? Should your job be mainly creataive work or do you think you can take responsibility for things? Big if: If you want to work in tech that is.
 
-There are many more fields and many, many more interesting opportunities. I see valuable paths in sectors like finance, consulting (maybe, but it is less), child care (can be classified as craftsmanship 😃), unfortunately policy makers are quite safe, ... TODO add more.
+There are many more fields and many, many more interesting opportunities. I see valuable paths in sectors like finance, consulting (maybe, but it is less), child care (can be classified as craftsmanship😄), unfortunately policy makers are quite safe, ... TODO add more.
 
 Now the exercise is quite simple: going away from explicit jobs or job families: You need to ask yourself "What are the underlying skills, that make you the best of the best in let's say child care, or infra, or electrician?" What should you focus on, what skills to hone to get there? To be future proof? I thought about it and think many skills (you could say tasks) are going to be obsolete. A handful of things won't be. The question in *which handful.* 
 
@@ -43,6 +43,19 @@ Not six because six is a tidy number. Six because, after a few weeks of thinking
 ### 1. Negotiating
 
 Most decisions get made under scarcity: time, money, attention, status, safety. AI removes information asymmetry — you can walk into a salary negotiation knowing the band, the comp ratios, the percentile you sit at. What it doesn't remove is **power asymmetry**. Two humans across a table, with different interests, trying to find a number that lets both walk away intact. That is still a human skill.
+
+Again, I asked a friend of mine, if he likes to negotiate (he was buying something of [Ebay Kleinanzeigen](https://www.kleinanzeigen.de/)) but he said no, he never does. It is really uncomfortable for him he said. And I get that, you get yourself in a position where you know the other one is thinking differently. Sometimes your intentions and value evaluations are the same, then it becomes easy. But most of the times not. I often come back thinking about my Professor at university teaching us about [Game Theory](https://en.wikipedia.org/wiki/Game_theory) and auctioning strategy. Looking for an equilibrium price (both parties are fine with how cheap/expensive the good is), is essentially negotiating. You can imagine this as a line with two initial positions on, one for the buyer one for the seller. You both start of with some idea of how much you want to pay for an item. Which differs from the idea the other party has in mind. You now try to move the needle over and get the other party to *come up *with a better price. You may do this over multiple rounds (noone knows how many rounds there are before someone jumps off and cancles the whole deal). 
+
+TODO add this timeline chart thing for this evaluation thing.
+
+
+Also you may never find the equilibrium price (which is a hard condition, because it is not given that both parties have can arrive at the same valuation). All this makes this topic *reeeally interesting* at least for me at least😄. I sometimes find myself watching videos on youtube where people try to get a steal by negotiating on a flea market. I finally know why this is so facinating for me: **Negotiating is a deep human skill, that involves psychology, charisma, insights into human nature.**
+
+
+
+I want to finish this section with one of my favorite videos about Game Theory and Negotiating:
+TODO add the video about the genius about this game on television split or steal 
+
 
 **2. Learning how to learn.** The half-life of any specific skill is shrinking. Three years ago, "knowing SQL" was a career. Today, knowing SQL is a checkbox on a job description that an LLM can produce in five seconds. The meta-skill — being able to **deconstruct an unfamiliar domain, find the load-bearing concepts, and build competency fast** — is what compounds. The skill is the skill of acquiring skills.
 
