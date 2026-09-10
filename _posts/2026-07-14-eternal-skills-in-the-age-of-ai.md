@@ -40,7 +40,7 @@ Here's my answer.
 
 Not six because six is a tidy number. Six because, after a few weeks of thinking about it, I kept coming back to these.
 
-### **1. Negotiating
+### 1. Negotiating
 
 Most decisions get made under scarcity: time, money, attention, status, safety. AI removes information asymmetry — you can walk into a salary negotiation knowing the band, the comp ratios, the percentile you sit at. What it doesn't remove is **power asymmetry**. Two humans across a table, with different interests, trying to find a number that lets both walk away intact. That is still a human skill.
 
