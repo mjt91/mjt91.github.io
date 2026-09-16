@@ -48,6 +48,7 @@ Again, I asked a friend of mine, if he likes to negotiate (he was buying somethi
 
 TODO add this timeline chart thing for this evaluation thing.
 
+![auctioning-simplified](/assets/images/auctioning-theory-simplified-1.png)
 
 Also you may never find the equilibrium price (which is a hard condition, because it is not given that both parties have can arrive at the same valuation). All this makes this topic *reeeally interesting* at least for me at least😄. I sometimes find myself watching videos on youtube where people try to get a steal by negotiating on a flea market. I finally know why this is so facinating for me: **Negotiating is a deep human skill, that involves psychology, charisma, insights into human nature.**
 
