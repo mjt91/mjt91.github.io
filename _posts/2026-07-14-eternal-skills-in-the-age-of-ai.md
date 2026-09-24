@@ -115,8 +115,7 @@ Trust is built across shared time, shared place, shared meals, shared risk. It's
 ### 6. Offline informational advantage
 
 
-Ferriss made this point and I think it's the most under-appreciated: LLMs slice and dice the public internet. Anything that is not on the public internet is now more valuable than it was five years ago. Your relationships. Your lived experience. Your niche expertise that lives in three Slack groups and a guy you went to college with. That's your edge. It doesn't compound on a server. It compounds in your life.
-
+Ferriss made this point and I think it's the most under-appreciated: LLMs slice and dice the public internet. Anything that is not on the public internet is now more valuable than it was five years ago. Your relationships. Your lived experience. Your niche expertise that lives in three Slack groups and a guy you went to college with. That's your edge.
 
 
 ## The shelf: Helpful books
@@ -130,9 +129,12 @@ Tim Ferriss - The 4-Hour Chef (2012). Most people skip this because of the title
 
 William Zinsser - On Writing Well (1976, many revisions). The classic. Stands up because it teaches you to think before you write, which is the skill AI cannot outsource. Anyone can prompt an LLM to produce a paragraph. Almost no one can sit down and write a paragraph that says what they mean.
 
+
 Hans Rosling - Factfulness (2018), with Ola Rosling and Anna Rosling Rönnlund. This is the book I would hand the frightened friend, and anyone about to tell a child which path to take. The picture in your head is usually more dramatic than the numbers, and a model trained on the public internet will hand you that dramatic picture, calmly. Rosling's habit is annoying and useful: compared to what, is it getting better or worse, and are you looking at a gap or a story. Without that, you invest in the panic instead of the skill.
 
+
 James Clear - Atomic Habits (2018). This belongs with learning how to learn, and with the part about changing yourself. You will not get better at negotiating, writing, or asking the hard question because you agreed with a post. You will get better because of a repetition small enough to do on a bad Tuesday. Clear's real point is identity: every time you write the paragraph yourself, or make the uncomfortable call, you cast a vote for the person who can. The eternal skills die in the gap between admiring them and practicing them.
+
 
 Nassim Nicholas Taleb - The Black Swan (2007). The job list in this essay will be wrong in the details. That is the book, not a flaw in the list. We explain the past as if we saw it coming, and we trust whatever worked every day until the day that mattered. A career built only on the current tool is that turkey. This is why the shelf is not "learn the next framework." It is why you want skills that still pay when the map gets redrawn overnight.
 
