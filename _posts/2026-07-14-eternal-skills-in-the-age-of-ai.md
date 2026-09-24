@@ -7,7 +7,7 @@ tags:
   - ai
   - skills
   - books
-excerpt: A friend asked me this question. I couldn't shake it. So I went looking.
+excerpt: A casual chat with a good friend send me on this philosophical journey
 ---
 
 ## The question that started this
@@ -20,7 +20,7 @@ The week before, I'd been listening to Ferriss's recent Q&A episode (#859, March
 
 Ferriss's answer, in his own words: the relational, the tactile, anything IRL, and offline informational advantage. Not "prompt engineering." Not "AI literacy." Not the stuff LinkedIn keeps telling me to learn. Relational. Tactile. In real life.
 
-I think this is not a complete answer to my friend's question, but it is a good start. AI engineering changed drastically in the last six months (remember when Prompt Engineer was supposed to be a real job?) and it will change again in the next six. But what Tim tells us here is to look behind the curtains. Begin to think from first principles, what would we do without the machines? Without delegating everything to our favourite AI? There is friction in the email to a new client, and in how you come across on a call you don't want to make. How do I come across as a charismatic guy when I call the girl I like? These are activities and behaviors taken from real life. Not from some prompt.
+I think this is not a complete answer to my friend's question, but it is a good start. AI engineering (or simply programming) changed drastically in the last six months (remember when Prompt Engineer was supposed to be a real job?) and it will change again in the next six. But what Tim tells us here is to look behind the curtains. Begin to think from first principles, what would we do without the machines? Without delegating everything to our favourite AI? There is friction in the email to a new client, and in how you come across on a call you don't want to make. How do I come across as a charismatic guy when I call the girl I like? These are activities and behaviors taken from real life. Not from some prompt.
 
 The other professions that come to mind are the ones Tim calls tactile. Electrician, carpenter, jeweler, the rest of the trades. If AI is the growth market, its currency is watts. That makes infrastructure electricians a serious job for young people, not a fallback.
 
