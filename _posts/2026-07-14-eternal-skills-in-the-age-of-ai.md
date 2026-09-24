@@ -91,22 +91,29 @@ Tim, in an earlier Q&A, was asked what skill he'd teach kids if he could teach t
 
 There's now empirical evidence for this. A 2026 study from ETH Zürich, accepted at CHI '26, ran a preregistered experiment with 100 university students on vibe coding - the workflow Karpathy named in early 2025, where you describe programs in natural language and iterate from observed behavior without ever touching the source. The researchers measured CS achievement, domain-general cognitive ability, and written-communication proficiency, then watched the students actually build things. Both CS achievement (*r* = 0.39) and writing skills (*r* = 0.29) significantly predicted vibe-coding performance. CS achievement stayed significant after controlling for general cognitive ability; in a joint model it contributed roughly twice the unique variance of writing, though both added independent predictive value.[^vibe-coding] Translation: in the most AI-native software workflow anyone has studied so far, the two skills that mattered most were the ones that don't look like AI skills. Not prompt-craft. Not model-selection. Writing, and CS fundamentals.
 
-I am a big fan of having a physical notebook. There are numerous ways to set it up. There is no right or wrong. Just get going, and take notes every day. It will structure your thinking in a rapidly moving world.
+I am a big fan of having a physical notebook. It will structure your thinking in a rapidly moving world. There are numerous ways to set it up. There is no right or wrong. Just get going, and take notes every day. What helped me is this video:
+
+https://youtu.be/DjEZM4RqaeY?si=DPUvziij9LXIPd1D
 
 
 
 ### 4. Verbal communication (and specifically, asking questions)
 
+
 AI can answer questions. What it cannot do, at least not yet and not well, is ask the right question at the right moment. The skill of reading a room, hearing what's not being said, and surfacing the question that reframes the conversation - that's still human work. The best managers, the best salespeople, the best doctors all do this.
 
+How to grow there? I suggest dealing with people more: visiting  joining a political party, a sports or debating club. Don't be afraid to discuss ideas with others (don't discuss people). Have an opinion on things. Just because someone shouts louder, does not mean he is right.
 
-### 5. IRL presence / relational skills
+
+### 5. IRL presence / Building Relations
+
 
 Trust is built across shared time, shared place, shared meals, shared risk. It's hard to overstate what LLMs cannot do here. They can simulate warmth. They cannot generate it. The person who can walk into a room and make the people in it feel seen - that person has a durable advantage.
 
 
 
 ### 6. Offline informational advantage
+
 
 Ferriss made this point and I think it's the most under-appreciated: LLMs slice and dice the public internet. Anything that is not on the public internet is now more valuable than it was five years ago. Your relationships. Your lived experience. Your niche expertise that lives in three Slack groups and a guy you went to college with. That's your edge. It doesn't compound on a server. It compounds in your life.
 
