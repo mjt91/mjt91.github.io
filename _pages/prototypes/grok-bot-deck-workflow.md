@@ -237,6 +237,35 @@ I sit on the city council in Halver for the UWG (Unabhängige Wählergemeinschaf
   <p class="note">The page and the repos are private, so the link may ask for access.</p>
 </div>
 
+## Models are surprisingly good at Slidev
+
+A Slidev deck is plain Markdown: YAML frontmatter picks the layout, `---` starts a new slide, and anything more special is a Vue component. That is exactly the kind of file models are good at. They can read the whole deck, change one slide, and I review the change as a Git diff. The real check is the export: the bots render PDF and PNG and look at every slide.
+
+What impressed me most is how well they build **new themes**. For the UWG theme, a bot pulled the colours, font, logos and slogans from uwghalver.de and logged a source for every value. It then built 18 layouts (cover, agenda, council motion, KPI grid, an A4 report page and more) and 9 components, such as a chapter tracker and print-friendly bar, column and share charts. It also wrote an example deck that uses every layout, a starter script for new decks, and a skill so the other bots use the theme the same way. My second theme, `slidev-theme-tokyo-night`, recreates the look of Omarchy's Tokyo Night desktop and has a light mode. Both themes were first committed on the same day.
+
+<figure>
+  <img src="{{ '/assets/img/prototypes/grok-bot-deck-workflow/uwg-theme-example-slides.webp' | relative_url }}" alt="The first eight slides of the UWG theme's example deck: cover, executive summary, agenda, a chapter divider, a column chart, a share bar, a second divider and a KPI grid, in yellow and petrol" width="1800" height="553" loading="lazy">
+  <figcaption>The first slides of the theme's example deck. All figures in it are illustrative example values.</figcaption>
+</figure>
+
+Using a layout is just frontmatter. This is the KPI slide on the far right above, shortened:
+
+```yaml
+---
+layout: kennzahlen
+kapitel: 2
+kennzahlen:
+  - wert: "4"
+    label: Maßnahmen beseitigen die Gefahrenstellen
+  - wert: "1,9"
+    einheit: km
+    label: neue Radverkehrsführung reichen dafür aus
+    akzent: true
+---
+```
+
+When the theme was not enough, the bots extended it. The budget deck needed a waterfall chart from 2025 to 2027 and columns with negative values, so Deck Designer wrote two small Vue components for that deck instead of pasting in images. It is not magic, though: the bots only see a slide once it is rendered. Overflowing text and cramped source lines show up in the export, and one whole commit in the budget deck went into fixing them on every slide. That is why every round ends with an export that the bots and I actually look at.
+
 ## What I like about it
 
 - **Each bot has one job.** Research and design stay apart, so I can see where a number came from.
