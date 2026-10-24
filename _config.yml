@@ -63,6 +63,7 @@ exclude:
 # Minima: custom header links
 header_pages:
   - _pages/bob.md
+  - _pages/prototypes/index.md
   - _pages/about.md
 
 # Archives
